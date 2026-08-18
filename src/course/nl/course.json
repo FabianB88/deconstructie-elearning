@@ -31,6 +31,16 @@
     }
   },
   "_globals": {
+    "_menu": {
+      "_boxMenu": {
+        "durationLabel": "Tijd:"
+      }
+    },
+    "_components": {
+      "_assessmentResults": {
+        "retryText": "Opnieuw proberen"
+      }
+    },
     "_accessibility": {
       "_ariaLabels": {
         "skipNavigation": "Ga direct naar de inhoud",
