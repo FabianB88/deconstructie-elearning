@@ -45,7 +45,7 @@
   <rect x="614" y="86" width="118" height="34" rx="5" fill="#FFFFFF" stroke="#E5007D" stroke-width="1.5"/>
   <text class="taak" x="626" y="100">3 voorbeelden</text><text class="taak" x="626" y="114">zoeken</text>
   <rect x="744" y="86" width="118" height="34" rx="5" fill="#FFFFFF" stroke="#E5007D" stroke-width="1.5"/>
-  <text class="taak" x="756" y="100">Tool kiezen +</text><text class="taak" x="756" y="114">briefing (14)</text>
+  <text class="taak" x="756" y="100">Tool kiezen +</text><text class="taak" x="756" y="114">briefing</text>
 
   <rect x="484" y="146" width="118" height="30" rx="5" fill="#FFFFFF" stroke="#E4E4E8" stroke-width="1.5"/>
   <text class="mini" x="543" y="165" text-anchor="middle">deels bekend</text>
