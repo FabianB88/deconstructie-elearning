@@ -550,6 +550,26 @@
     "instruction": ""
   },
   {
+    "_id": "c-4001",
+    "_parentId": "b-4001",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "De vijf stappen en hun stopsignaal",
+    "displayTitle": "De vijf stappen en hun stopsignaal",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "large": "course/nl/images/vijf-stappen.svg",
+      "small": "course/nl/images/vijf-stappen.svg",
+      "alt": "Vijf stappen onder elkaar, verbonden door een verticale lijn, met links een roze balk met het label de deconstructie die de eerste vier stappen omvat. Stap 1: schets onderaan je einddoel, klaar als iemand buiten je groep begrijpt wat er straks ligt. Stap 2: wat heb ik daarvoor nodig, klaar als je drie tot vijf elementen hebt die je niet kunt missen. Stap 3: hoe maken we dit echt goed, klaar als er minstens een leerstap staat. Stap 4: werk uit in concrete stappen, klaar als iemand anders ze zou kunnen uitvoeren zonder jou. Stap 5: zet om in scrum-taken, klaar als alles op de backlog staat met een eigenaar.",
+      "attribution": "Let op de roze balk links: stap 5 valt buiten de deconstructie zelf.",
+      "_url": "",
+      "_target": ""
+    }
+  },
+  {
     "_id": "c-401",
     "_parentId": "b-401",
     "_type": "component",
