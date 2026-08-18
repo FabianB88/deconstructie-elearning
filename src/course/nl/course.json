@@ -1,0 +1,57 @@
+{
+  "_id": "course",
+  "_type": "course",
+  "_courseId": "deconstructie",
+  "title": "Deconstructie",
+  "displayTitle": "Deconstructie",
+  "subtitle": "Vanaf je einddoel terugredeneren naar je concrete stappen voor nu",
+  "description": "Hulpmiddel 03 · Minor Circulaire Economie",
+  "body": "Je begint niet bij de eerste stap, maar bij het eind. In deze korte module leer je een project deconstrueren: van je einddoel onderaan terug naar wat je vandaag concreet gaat doen.",
+  "instruction": "",
+  "_buttons": {
+    "_submit": {
+      "buttonText": "Nakijken",
+      "ariaLabel": "Nakijken"
+    },
+    "_reset": {
+      "buttonText": "Opnieuw",
+      "ariaLabel": "Opnieuw proberen"
+    },
+    "_showCorrectAnswer": {
+      "buttonText": "Toon antwoord",
+      "ariaLabel": "Toon het juiste antwoord"
+    },
+    "_hideCorrectAnswer": {
+      "buttonText": "Toon mijn antwoord",
+      "ariaLabel": "Toon mijn eigen antwoord"
+    },
+    "_showFeedback": {
+      "buttonText": "Feedback",
+      "ariaLabel": "Toon feedback"
+    }
+  },
+  "_globals": {
+    "_accessibility": {
+      "_ariaLabels": {
+        "skipNavigation": "Ga direct naar de inhoud",
+        "navigation": "Hoofdnavigatie",
+        "previous": "Vorige",
+        "next": "Volgende",
+        "close": "Sluiten",
+        "closeDrawer": "Sluit het zijpaneel",
+        "drawer": "Extra informatie",
+        "complete": "Afgerond",
+        "incomplete": "Nog niet afgerond",
+        "correct": "Goed",
+        "incorrect": "Fout",
+        "selectedAnswer": "gekozen",
+        "unselectedAnswer": "niet gekozen",
+        "answeredIncorrectly": "Je antwoord was fout",
+        "answeredCorrectly": "Je antwoord was goed",
+        "selectAnswer": "Kies een antwoord",
+        "done": "Klaar"
+      }
+    }
+  },
+  "_latestTrackingId": 34
+}

@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 452" width="900" height="452" role="img" aria-labelledby="t2 d2">
+<title id="t2">Mindmap tegenover deconstructie</title>
+<desc id="d2">Links een gewone mindmap: een onderwerp in het midden waar takken naar buiten uitwaaieren, zonder richting. Rechts een deconstructie: een verticale stapel die onderaan begint bij het einddoel en met een pijl omhoog loopt naar de concrete stappen van nu.</desc>
+<style>
+  .t{font-family:Arial,Helvetica,sans-serif}
+  .h{font-size:17px;font-weight:bold;fill:#1C1C1E}
+  .s{font-size:13.5px;fill:#46464B}
+  .n{font-size:13px;fill:#46464B}
+  .nb{font-size:14px;font-weight:bold;fill:#1C1C1E}
+  .w{font-size:13.5px;font-weight:bold;fill:#FFFFFF}
+  .rail{font-size:11.5px;font-weight:bold;letter-spacing:.14em;fill:#B00061}
+</style>
+<rect width="900" height="452" fill="#FFFFFF"/>
+<line x1="450" y1="34" x2="450" y2="418" stroke="#E4E4E8" stroke-width="1.5"/>
+
+<!-- LINKS: gewone mindmap -->
+<g class="t">
+  <text class="h" x="34" y="44">Gewone mindmap</text>
+  <text class="s" x="34" y="66">Van een onderwerp naar buiten. Alle kanten op, geen richting.</text>
+  <g stroke="#C9C9D0" stroke-width="1.8">
+    <line x1="225" y1="258" x2="340" y2="258"/><line x1="225" y1="258" x2="282" y2="158"/>
+    <line x1="225" y1="258" x2="168" y2="158"/><line x1="225" y1="258" x2="110" y2="258"/>
+    <line x1="225" y1="258" x2="168" y2="358"/><line x1="225" y1="258" x2="282" y2="358"/>
+  </g>
+  <g fill="#F4F4F6" stroke="#C9C9D0" stroke-width="1.5">
+    <ellipse cx="340" cy="258" rx="44" ry="19"/><ellipse cx="282" cy="158" rx="44" ry="19"/>
+    <ellipse cx="168" cy="158" rx="44" ry="19"/><ellipse cx="110" cy="258" rx="44" ry="19"/>
+    <ellipse cx="168" cy="358" rx="44" ry="19"/><ellipse cx="282" cy="358" rx="44" ry="19"/>
+  </g>
+  <g class="n" text-anchor="middle" fill="#8A8A8E">
+    <text x="340" y="263">idee</text><text x="282" y="163">idee</text><text x="168" y="163">idee</text>
+    <text x="110" y="263">idee</text><text x="168" y="363">idee</text><text x="282" y="363">idee</text>
+  </g>
+  <circle cx="225" cy="258" r="46" fill="#FFFFFF" stroke="#8A8A8E" stroke-width="2.5"/>
+  <text class="nb" x="225" y="263" text-anchor="middle">onderwerp</text>
+  <text class="s" x="225" y="424" text-anchor="middle" fill="#8A8A8E">Waar begin je? Onduidelijk.</text>
+</g>
+
+<!-- RECHTS: deconstructie -->
+<g class="t">
+  <text class="h" x="484" y="44">Deconstructie</text>
+  <text class="s" x="484" y="66">Van je eindpunt terug naar je eerste stap. Eén richting.</text>
+
+  <line x1="512" y1="396" x2="512" y2="176" stroke="#F5B8D8" stroke-width="3"/>
+  <polygon points="512,160 505,180 519,180" fill="#E5007D"/>
+  <text class="rail" transform="translate(502,320) rotate(-90)">OMHOOG</text>
+
+  <rect x="546" y="160" width="318" height="46" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <rect x="546" y="160" width="6" height="46" rx="3" fill="#E5007D"/>
+  <text class="nb" x="572" y="189">4 · Wat doe ik nu?</text>
+
+  <rect x="546" y="222" width="318" height="46" rx="9" fill="#FFFFFF" stroke="#E4E4E8" stroke-width="1.5"/>
+  <rect x="546" y="222" width="6" height="46" rx="3" fill="#F5B8D8"/>
+  <text class="nb" x="572" y="251" fill="#46464B">3 · Wat moet ik weten of kunnen?</text>
+
+  <rect x="546" y="284" width="318" height="46" rx="9" fill="#FFFFFF" stroke="#E4E4E8" stroke-width="1.5"/>
+  <rect x="546" y="284" width="6" height="46" rx="3" fill="#F5B8D8"/>
+  <text class="nb" x="572" y="313" fill="#46464B">2 · Wat heb ik daarvoor nodig?</text>
+
+  <rect x="546" y="350" width="318" height="46" rx="9" fill="#E5007D"/>
+  <text class="w" x="572" y="379">1 · Einddoel — hier begin je</text>
+
+  <text class="s" x="705" y="424" text-anchor="middle" fill="#B00061">Je begint onderaan. Altijd.</text>
+</g>
+</svg>

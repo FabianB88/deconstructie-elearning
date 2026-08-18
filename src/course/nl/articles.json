@@ -1,0 +1,112 @@
+[
+  {
+    "_id": "a-10",
+    "_parentId": "co-10",
+    "_type": "article",
+    "_classes": "",
+    "title": "Waarom deconstructie?",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-20",
+    "_parentId": "co-20",
+    "_type": "article",
+    "_classes": "",
+    "title": "De vier lagen",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-30",
+    "_parentId": "co-30",
+    "_type": "article",
+    "_classes": "",
+    "title": "Het idee in beeld",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-40",
+    "_parentId": "co-40",
+    "_type": "article",
+    "_classes": "",
+    "title": "Zo werkt het, stap voor stap",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-50",
+    "_parentId": "co-50",
+    "_type": "article",
+    "_classes": "",
+    "title": "Valkuilen en tips",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-60",
+    "_parentId": "co-60",
+    "_type": "article",
+    "_classes": "",
+    "title": "Mini-voorbeeld",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-70",
+    "_parentId": "co-70",
+    "_type": "article",
+    "_classes": "",
+    "title": "Kennischeck",
+    "displayTitle": "",
+    "body": "",
+    "instruction": "",
+    "_assessment": {
+      "_isEnabled": true,
+      "_id": "kennischeck",
+      "_questions": {
+        "_resetType": "soft",
+        "_canShowFeedback": true
+      },
+      "_scoreToPass": 75,
+      "_isPercentageBased": true,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_attempts": "infinite",
+      "_allowResetIfPassed": true,
+      "_banks": {
+        "_isEnabled": false
+      },
+      "_randomisation": {
+        "_isEnabled": false
+      }
+    }
+  },
+  {
+    "_id": "a-80",
+    "_parentId": "co-80",
+    "_type": "article",
+    "_classes": "",
+    "title": "Jouw deconstructie",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  },
+  {
+    "_id": "a-71",
+    "_parentId": "co-70",
+    "_type": "article",
+    "_classes": "",
+    "title": "Uitslag",
+    "displayTitle": "",
+    "body": "",
+    "instruction": ""
+  }
+]

@@ -1,0 +1,727 @@
+[
+  {
+    "_id": "c-100",
+    "_parentId": "b-100",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Je begint bij het eind",
+    "displayTitle": "Je begint bij het eind",
+    "body": "<p>Deconstructie is een methode om grip te krijgen op een project. Je begint niet bij de eerste stap, maar bij het <b>eind</b>. Onderaan zet je je einddoel, en van daaruit redeneer je omhoog: wat heb je daarvoor nodig, wat moet je daarvoor weten of kunnen, en wat ga je dus <b>nu</b> concreet doen?</p><p>Het is een <b>omgekeerde mindmap</b>. Je werkt niet van een onderwerp naar buiten, maar van een eindpunt terug naar je eerste stap. Zo zie je in één beeld wat er allemaal bij komt kijken, en wordt meteen duidelijk wat je nog niet weet.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-101",
+    "_parentId": "b-101",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Waar een mindmap uitwaaiert, kiest een deconstructie richting",
+    "displayTitle": "Waar een mindmap uitwaaiert, kiest een deconstructie richting",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "large": "course/nl/images/omgekeerde-mindmap.svg",
+      "small": "course/nl/images/omgekeerde-mindmap.svg",
+      "alt": "Links een gewone mindmap: een onderwerp in het midden met takken die alle kanten op waaieren. Rechts een deconstructie: een verticale stapel van vier lagen met een pijl omhoog, die onderaan begint bij het einddoel.",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    }
+  },
+  {
+    "_id": "c-102",
+    "_parentId": "b-102",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Wanneer zet je het in?",
+    "displayTitle": "Wanneer zet je het in?",
+    "body": "<p>Gebruik deconstructie <b>aan het begin van je project</b>, in de discover-fase, en opnieuw als er een grote nieuwe stap aankomt.</p><p>Het hoort bij de rode draad: eerst denken, dan schetsen, dan prompten. Deconstructie is het denkwerk dat aan al het maken voorafgaat.</p><p>De bovenste laag sluit direct aan op je scrum-backlog (02). Zo loopt je denkwerk rechtstreeks door naar je planning.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-200",
+    "_parentId": "b-200",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Vier lagen, vier vragen",
+    "displayTitle": "Vier lagen, vier vragen",
+    "body": "<p>Je bouwt de deconstructie op in vier lagen, van onder naar boven. Elke laag heeft <b>één vraag</b>. Beantwoord je die eerlijk, dan rolt de volgende laag er vanzelf uit.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-201",
+    "_parentId": "b-201",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "De vier lagen, van onder naar boven",
+    "displayTitle": "De vier lagen, van onder naar boven",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "large": "course/nl/images/vier-lagen.svg",
+      "small": "course/nl/images/vier-lagen.svg",
+      "alt": "Vier lagen boven elkaar. Onderaan laag 1, het einddoel: wat wil ik uiteindelijk opleveren? Daarboven laag 2, de richtingen: wat heb ik daarvoor nodig? Daarboven laag 3: wat moet ik daarvoor weten of kunnen? Bovenaan laag 4, de concrete stappen: wat ga ik nu doen? Daarboven een pijl naar de scrum-taken.",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    }
+  },
+  {
+    "_id": "c-202",
+    "_parentId": "b-202",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Wat elke laag oplevert",
+    "displayTitle": "Wat elke laag oplevert",
+    "body": "<p>Klap een laag open voor de vraag die je stelt en wat eruit komt.</p>",
+    "instruction": "Klik op een kop om die open te klappen.",
+    "_shouldCollapseItems": false,
+    "_items": [
+      {
+        "title": "Laag 1 · Einddoel — onderaan, hier begin je",
+        "body": "<p><b>De vraag:</b> wat wil ik uiteindelijk opleveren? Schets het.</p><p><b>Wat eruit komt:</b> een helder beeld van je eindproduct. Dit is beeldvorming — hoe scherper je beeld, hoe beter alle lagen daarboven werken.</p>"
+      },
+      {
+        "title": "Laag 2 · Richtingen",
+        "body": "<p><b>De vraag:</b> wat heb ik daarvoor nodig? Welke grote onderdelen of richtingen?</p><p><b>Wat eruit komt:</b> de bouwstenen van je project. Dit is verbreden: noem de grote onderdelen, nog niet de details.</p>"
+      },
+      {
+        "title": "Laag 3 · Weten of kunnen",
+        "body": "<p><b>De vraag:</b> wat moet ik daarvoor weten of kunnen?</p><p><b>Wat eruit komt:</b> wat je al weet, en wat je nog moet uitzoeken. Dat laatste is een <b>leerstap</b>. Markeer die apart — ze vormen samen je onderzoekslijst.</p>"
+      },
+      {
+        "title": "Laag 4 · Concrete stappen — bovenaan",
+        "body": "<p><b>De vraag:</b> wat ga ik nu concreet doen?</p><p><b>Wat eruit komt:</b> je acties voor nu, klaar om in te plannen. Deze laag zet je daarna om in scrum-taken (02).</p>"
+      }
+    ]
+  },
+  {
+    "_id": "c-300",
+    "_parentId": "b-300",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Een deconstructie van een infographic",
+    "displayTitle": "Een deconstructie van een infographic",
+    "body": "<p>Hieronder staat een uitgewerkte deconstructie: een duo wil een infographic maken over voedselverspilling. Lees hem van <b>onder naar boven</b>.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-301",
+    "_parentId": "b-301",
+    "_type": "component",
+    "_component": "graphic",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Deconstructie van een infographic over voedselverspilling",
+    "displayTitle": "Deconstructie van een infographic over voedselverspilling",
+    "body": "",
+    "instruction": "",
+    "_graphic": {
+      "large": "course/nl/images/deconstructie-voorbeeld.jpg",
+      "small": "course/nl/images/deconstructie-voorbeeld.jpg",
+      "alt": "Uitgewerkte deconstructie in vier lagen. Onderaan het einddoel: een infographic over hoe voedselverspilling in de keten ontstaat. Daarboven drie richtingen: kloppende inhoud, visueel ontwerp en een tool om te maken. Daarboven wat je moet weten of kunnen, waarvan twee vakken gemarkeerd zijn als nog uit te zoeken. Bovenaan vier concrete stappen voor nu, met daarboven een balk die naar de scrum-taken wijst.",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    }
+  },
+  {
+    "_id": "c-302",
+    "_parentId": "b-302",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Van onder naar boven gelezen",
+    "displayTitle": "Van onder naar boven gelezen",
+    "body": "<p><b>Onderaan</b> staat het einddoel: de infographic.</p><p><b>Daarboven</b> de richtingen die je daarvoor nodig hebt: kloppende inhoud, een visueel ontwerp en een tool.</p><p><b>Per richting</b> vraag je wat je moet weten of kunnen. Voor de inhoud weet het duo dat al. Voor het ontwerp en de tool nog niet — dat worden leerstappen, in het schema herkenbaar aan de gestippelde rand.</p><p><b>Bovenaan</b> staan de concrete stappen voor nu. Die zet je daarna om in scrum-taken.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-303",
+    "_parentId": "b-303",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "attention",
+    "_layout": "full",
+    "title": "Let op",
+    "displayTitle": "Let op",
+    "body": "<p>Dit ingevulde voorbeeld is <b>erg beperkt</b>. Een echte deconstructie is veel uitgebreider: meer richtingen, meer leerstappen, en vaak een extra laag ertussen. Zie het als het patroon, niet als de maat.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-400",
+    "_parentId": "b-400",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Vijf stappen",
+    "displayTitle": "Vijf stappen",
+    "body": "<p>Zet deze vijf stappen achter elkaar. Werk met losse post-its of kaartjes, dan kun je bolletjes makkelijk verschuiven en lagen toevoegen.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-401",
+    "_parentId": "b-401",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Stap 1 · Schets onderaan je einddoel",
+    "displayTitle": "Stap 1 · Schets onderaan je einddoel",
+    "body": "<p>Begin met beeldvorming: wat wil je uiteindelijk opleveren? Zet het als blok onderaan en schets het ruw.</p><p>Hoe scherper je beeld, hoe beter de rest werkt. Een vage stip op de horizon levert vage richtingen op.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-402",
+    "_parentId": "b-402",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Stap 2 · Vraag: wat heb ik daarvoor nodig?",
+    "displayTitle": "Stap 2 · Vraag: wat heb ik daarvoor nodig?",
+    "body": "<p>Zet de algemene richtingen of bouwstenen een laag hoger. Dit is <b>verbreden</b>: noem de grote onderdelen, nog niet de details.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-403",
+    "_parentId": "b-403",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Stap 3 · Vraag per richting: wat moet ik weten of kunnen?",
+    "displayTitle": "Stap 3 · Vraag per richting: wat moet ik weten of kunnen?",
+    "body": "<p>Zet dat weer een laag hoger. Weet je iets niet of kun je iets nog niet, dan is dat een <b>leerstap</b>. Markeer die apart.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-404",
+    "_parentId": "b-404",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Stap 4 · Werk de bovenste laag uit in concrete stappen",
+    "displayTitle": "Stap 4 · Werk de bovenste laag uit in concrete stappen",
+    "body": "<p>Wat ga je nu doen? Een leerstap wordt hier een concrete stap. Bijvoorbeeld: eerst uitzoeken hoe je een goede infographic maakt.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-405",
+    "_parentId": "b-405",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Stap 5 · Zet de concrete stappen om in scrum-taken",
+    "displayTitle": "Stap 5 · Zet de concrete stappen om in scrum-taken",
+    "body": "<p>De bovenste laag is je startpunt voor de product backlog. Geef elke stap een prioriteit en een eigenaar (02 Scrum).</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-406",
+    "_parentId": "b-406",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Wat je overhoudt",
+    "displayTitle": "Wat je overhoudt",
+    "body": "<p>Na deze vijf stappen heb je twee dingen in handen:</p><p><b>De bovenste laag wordt je scrum-taken.</b> De concrete stappen waarmee je nu kunt beginnen. Zet ze op je product backlog en plan ze in.</p><p><b>De leerstappen worden je onderzoekslijst.</b> Alles wat je nog moet uitzoeken of leren voordat je verder kunt. Dit is je gerichte onderzoek.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-500",
+    "_parentId": "b-500",
+    "_type": "component",
+    "_component": "accordion",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Vier valkuilen",
+    "displayTitle": "Vier valkuilen",
+    "body": "<p>Dit gaat er in de praktijk het vaakst mis.</p>",
+    "instruction": "Klik op een kop om die open te klappen.",
+    "_shouldCollapseItems": false,
+    "_items": [
+      {
+        "title": "Bij de stappen beginnen in plaats van bij het einddoel",
+        "body": "<p>Dan mis je de richtingen en weet je niet of je het juiste maakt. Je bent druk, maar misschien met het verkeerde. <b>Begin altijd onderaan.</b></p>"
+      },
+      {
+        "title": "Alles als bekend aannemen",
+        "body": "<p>Vraag bij elke richting eerlijk: weten we echt hoe dit moet? Zo niet, dan is het een leerstap. Doen alsof je het weet kost je later meer tijd dan het nu toegeven.</p>"
+      },
+      {
+        "title": "Leerstappen niet markeren",
+        "body": "<p>Houd je niet bij wat je nog moet uitzoeken, dan verdwijnt het uit beeld en kom je er pas laat achter — meestal op het moment dat je het nodig hebt.</p>"
+      },
+      {
+        "title": "Blijven vertakken",
+        "body": "<p>Stop een laag zodra je bij concrete stappen bent. Een deconstructie is een <b>werkkaart, geen kunstwerk</b>.</p>"
+      }
+    ]
+  },
+  {
+    "_id": "c-501",
+    "_parentId": "b-501",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Twee tips",
+    "displayTitle": "Twee tips",
+    "body": "<p><b>Werk met losse post-its of kaartjes.</b> Dan kun je bolletjes makkelijk verschuiven en lagen toevoegen. Op papier vastgezet ga je minder snel herzien.</p><p><b>Begin echt onderaan.</b> De verleiding is groot om meteen aan stappen te denken, maar de kracht zit in eerst je einddoel en richtingen scherp krijgen.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-600",
+    "_parentId": "b-600",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Een vergelijkingspagina",
+    "displayTitle": "Een vergelijkingspagina",
+    "body": "<p>Nog een voorbeeld, zodat je het patroon leert herkennen in een heel ander project.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-601",
+    "_parentId": "b-601",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Laag voor laag",
+    "displayTitle": "Laag voor laag",
+    "body": "<p><b>Laag 1 — Einddoel:</b> een webpagina die drie circulaire isolatiematerialen vergelijkt voor de opdrachtgever.</p><p><b>Laag 2 — Richtingen:</b> een kloppende vergelijking, een helder pagina-ontwerp, en een manier om de pagina te bouwen.</p><p><b>Laag 3 — Weten of kunnen:</b> welke criteria je vergelijkt en betrouwbare data per materiaal (deels uitzoeken); hoe je een leesbare vergelijkingspagina opbouwt (leerstap); met welke tool je een site maakt (leerstap, zie 14 AI naar website).</p><p><b>Laag 4 — Concrete stappen:</b> drie materialen en vergelijkingscriteria kiezen; per materiaal data opzoeken en checken; je verdiepen in de opbouw van een vergelijkingspagina; een tool kiezen en de mini-briefing invullen (14).</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-602",
+    "_parentId": "b-602",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "attention",
+    "_layout": "full",
+    "title": "En dan naar scrum",
+    "displayTitle": "En dan naar scrum",
+    "body": "<p>Deze stappen op de product backlog zetten en de eerste twee in sprint 1 plannen (02).</p><p>Merk op dat twee van de vier stappen <b>uitzoekwerk</b> zijn. Dat is normaal en het is precies wat je wilt weten voordat je begint te bouwen.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-700",
+    "_parentId": "b-700",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Waar begin je?",
+    "displayTitle": "Waar begin je?",
+    "body": "Je start een deconstructie voor een nieuw project. Bij welke laag zet je je eerste blok?",
+    "instruction": "Kies één antwoord en klik op Nakijken.",
+    "ariaQuestion": "Je start een deconstructie voor een nieuw project. Bij welke laag zet je je eerste blok?",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Onderaan, bij het einddoel",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "Bovenaan, bij de eerste concrete stap",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "In het midden, bij het onderwerp",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Bij de scrum-taken op je backlog",
+        "_shouldBeSelected": false
+      }
+    ],
+    "_feedback": {
+      "title": "Waar begin je?",
+      "correct": "<p>Klopt. Je begint onderaan met beeldvorming van je einddoel, en redeneert van daaruit omhoog.</p>",
+      "_incorrect": {
+        "final": "<p>Niet helemaal. Je begint altijd onderaan, bij het einddoel. Begin je bovenaan bij de stappen, dan mis je de richtingen en weet je niet of je het juiste maakt.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Nog niet. Je begint altijd onderaan, bij het einddoel.</p>"
+      }
+    }
+  },
+  {
+    "_id": "c-701",
+    "_parentId": "b-701",
+    "_type": "component",
+    "_component": "matching",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Welke vraag hoort bij welke laag?",
+    "displayTitle": "Welke vraag hoort bij welke laag?",
+    "body": "Koppel elke laag aan de vraag die je daar stelt.",
+    "instruction": "Kies bij elke laag de bijbehorende vraag en klik op Nakijken.",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Laag 1 · Einddoel",
+        "_options": [
+          {
+            "text": "Wat wil ik uiteindelijk opleveren?",
+            "_isCorrect": true
+          },
+          {
+            "text": "Wat heb ik daarvoor nodig?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat moet ik daarvoor weten of kunnen?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat ga ik nu concreet doen?",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Laag 2 · Richtingen",
+        "_options": [
+          {
+            "text": "Wat wil ik uiteindelijk opleveren?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat heb ik daarvoor nodig?",
+            "_isCorrect": true
+          },
+          {
+            "text": "Wat moet ik daarvoor weten of kunnen?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat ga ik nu concreet doen?",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Laag 3 · Weten of kunnen",
+        "_options": [
+          {
+            "text": "Wat wil ik uiteindelijk opleveren?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat heb ik daarvoor nodig?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat moet ik daarvoor weten of kunnen?",
+            "_isCorrect": true
+          },
+          {
+            "text": "Wat ga ik nu concreet doen?",
+            "_isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Laag 4 · Concrete stappen",
+        "_options": [
+          {
+            "text": "Wat wil ik uiteindelijk opleveren?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat heb ik daarvoor nodig?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat moet ik daarvoor weten of kunnen?",
+            "_isCorrect": false
+          },
+          {
+            "text": "Wat ga ik nu concreet doen?",
+            "_isCorrect": true
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "Welke vraag hoort bij welke laag?",
+      "correct": "<p>Precies. Vier lagen, vier vragen — en ze staan altijd in deze volgorde.</p>",
+      "_incorrect": {
+        "final": "<p>Nog niet. De volgorde van onder naar boven is: wat lever ik op, wat heb ik nodig, wat moet ik weten of kunnen, wat doe ik nu.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Deels goed. Kijk nog eens naar de volgorde van onder naar boven: wat lever ik op, wat heb ik nodig, wat moet ik weten of kunnen, wat doe ik nu.</p>"
+      }
+    }
+  },
+  {
+    "_id": "c-702",
+    "_parentId": "b-702",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Een leerstap herkennen",
+    "displayTitle": "Een leerstap herkennen",
+    "body": "Je duo ontdekt bij laag 3 dat niemand weet hoe je een leesbare infographic opbouwt. Wat doe je daarmee?",
+    "instruction": "Kies één antwoord en klik op Nakijken.",
+    "ariaQuestion": "Je duo ontdekt bij laag 3 dat niemand weet hoe je een leesbare infographic opbouwt. Wat doe je daarmee?",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Je markeert het als leerstap en zet het op je onderzoekslijst",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "Je laat het weg, want je weet het toch niet",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Je zet het onderaan bij je einddoel",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "Je neemt aan dat het onderweg wel duidelijk wordt",
+        "_shouldBeSelected": false
+      }
+    ],
+    "_feedback": {
+      "title": "Een leerstap herkennen",
+      "correct": "<p>Goed. Een leerstap markeer je apart, en in laag 4 wordt het een concrete stap: eerst uitzoeken hoe het moet.</p>",
+      "_incorrect": {
+        "final": "<p>Nee. Wat je nog niet weet is juist het waardevolste wat een deconstructie oplevert. Markeer het als leerstap, dan verdwijnt het niet uit beeld.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Nog niet. Markeer wat je niet weet als leerstap.</p>"
+      }
+    }
+  },
+  {
+    "_id": "c-703",
+    "_parentId": "b-703",
+    "_type": "component",
+    "_component": "mcq",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Wat gaat er mis?",
+    "displayTitle": "Wat gaat er mis?",
+    "body": "Welke twee dingen zijn valkuilen bij het maken van een deconstructie?",
+    "instruction": "Kies twee antwoorden en klik op Nakijken.",
+    "ariaQuestion": "Welke twee dingen zijn valkuilen bij het maken van een deconstructie?",
+    "_attempts": 1,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_recordInteraction": true,
+    "_items": [
+      {
+        "text": "Blijven vertakken tot het een kunstwerk is",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "Aannemen dat je alles al weet",
+        "_shouldBeSelected": true
+      },
+      {
+        "text": "Werken met losse post-its",
+        "_shouldBeSelected": false
+      },
+      {
+        "text": "De bovenste laag omzetten in scrum-taken",
+        "_shouldBeSelected": false
+      }
+    ],
+    "_feedback": {
+      "title": "Wat gaat er mis?",
+      "correct": "<p>Klopt. Stop zodra je bij concrete stappen bent, en wees eerlijk over wat je nog niet weet.</p>",
+      "_incorrect": {
+        "final": "<p>Niet juist. Post-its gebruiken en doorstromen naar scrum zijn juist de bedoeling. De valkuilen zijn eindeloos vertakken en doen alsof je alles al weet.</p>"
+      },
+      "_partlyCorrect": {
+        "final": "<p>Eén goed. De andere valkuil zit in eindeloos vertakken of doen alsof je alles al weet — post-its en scrum zijn juist wél de bedoeling.</p>"
+      }
+    }
+  },
+  {
+    "_id": "c-710",
+    "_parentId": "b-710",
+    "_type": "component",
+    "_component": "assessmentResults",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Je resultaat",
+    "displayTitle": "Je resultaat",
+    "body": "Je hebt de kennischeck nog niet gemaakt.",
+    "instruction": "",
+    "_assessmentId": "kennischeck",
+    "_setCompletionOn": "inview",
+    "_resetType": "inherit",
+    "_completionBody": "Je score: <b>{{{score}}} van de {{{maxScore}}}</b> ({{{scoreAsPercent}}}%).<br>{{{feedback}}}",
+    "_retry": {
+      "button": "Opnieuw proberen",
+      "feedback": "Je mag het zo vaak proberen als je wilt.",
+      "_routeToAssessment": true
+    },
+    "_bands": [
+      {
+        "_score": 0,
+        "feedback": "Dat is nog niet voldoende. Loop de pagina's over de vier lagen en de valkuilen nog eens door, en probeer het daarna opnieuw.",
+        "_allowRetry": true
+      },
+      {
+        "_score": 75,
+        "feedback": "Voldoende — je hebt de methode te pakken. Door naar het canvas, daar pas je hem toe op je eigen project.",
+        "_allowRetry": true
+      }
+    ]
+  },
+  {
+    "_id": "c-800",
+    "_parentId": "b-800",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Vul je eigen deconstructie in",
+    "displayTitle": "Vul je eigen deconstructie in",
+    "body": "<p>Bouw van onder naar boven: begin bij laag 1 en werk omhoog naar laag 4. Wat je typt wordt vanzelf bewaard.</p><p>Er is geen goed of fout. Dit is jouw werkkaart, en je mag hem zo vaak herzien als je wilt — dat is juist de bedoeling.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-801",
+    "_parentId": "b-801",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "attention",
+    "_layout": "full",
+    "title": "Waar blijft dit?",
+    "displayTitle": "Waar blijft dit?",
+    "body": "<p>Wat je typt wordt automatisch bewaard in <b>deze browser op dit apparaat</b>. Je kunt alles altijd aanpassen. Op een andere computer staat het er niet — neem je deconstructie dus over in je projectmap zodra hij af is.</p>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-802",
+    "_parentId": "b-802",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "canvas-veld",
+    "_layout": "full",
+    "title": "Laag 1 · Einddoel",
+    "displayTitle": "Laag 1 · Einddoel",
+    "body": "<p>Hier begin je. Wat wil je uiteindelijk opleveren? Beschrijf het zo concreet dat je het bijna kunt tekenen.</p><div class=\"canvas-groep\" data-laag=\"Laag 1 · Einddoel\"><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag1-einddoel\">Mijn einddoel</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag1-einddoel\" name=\"laag1-einddoel\" rows=\"2\" placeholder=\"Wat lever ik uiteindelijk op?\"></textarea></div></div>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-803",
+    "_parentId": "b-803",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "canvas-veld",
+    "_layout": "full",
+    "title": "Laag 2 · Richtingen",
+    "displayTitle": "Laag 2 · Richtingen",
+    "body": "<p>Wat heb je daarvoor nodig? Noem de grote bouwstenen, nog niet de details.</p><div class=\"canvas-groep\" data-laag=\"Laag 2 · Richtingen\"><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag2-richting-1\">Richting 1</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag2-richting-1\" name=\"laag2-richting-1\" rows=\"2\" placeholder=\"Grote bouwsteen die ik nodig heb\"></textarea></div><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag2-richting-2\">Richting 2</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag2-richting-2\" name=\"laag2-richting-2\" rows=\"2\" placeholder=\"Grote bouwsteen die ik nodig heb\"></textarea></div><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag2-richting-3\">Richting 3</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag2-richting-3\" name=\"laag2-richting-3\" rows=\"2\" placeholder=\"Grote bouwsteen die ik nodig heb\"></textarea></div></div>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-804",
+    "_parentId": "b-804",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "canvas-veld",
+    "_layout": "full",
+    "title": "Laag 3 · Weten of kunnen",
+    "displayTitle": "Laag 3 · Weten of kunnen",
+    "body": "<p>Wat moet je daarvoor weten of kunnen? Wat je nog niet weet is een <b>leerstap</b> — die gaat op je onderzoekslijst.</p><div class=\"canvas-groep\" data-laag=\"Laag 3 · Weten of kunnen\"><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag3-bekend\">Dit weten we al</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag3-bekend\" name=\"laag3-bekend\" rows=\"2\" placeholder=\"Kennis of vaardigheid die we in huis hebben\"></textarea></div><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag3-leerstap-1\">Leerstap 1</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag3-leerstap-1\" name=\"laag3-leerstap-1\" rows=\"2\" placeholder=\"Dit moeten we nog uitzoeken\"></textarea></div><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag3-leerstap-2\">Leerstap 2</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag3-leerstap-2\" name=\"laag3-leerstap-2\" rows=\"2\" placeholder=\"Dit moeten we nog uitzoeken\"></textarea></div></div>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-805",
+    "_parentId": "b-805",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "canvas-veld",
+    "_layout": "full",
+    "title": "Laag 4 · Concrete stappen",
+    "displayTitle": "Laag 4 · Concrete stappen",
+    "body": "<p>Wat ga je nu doen? Dit worden je scrum-taken. Elke leerstap uit laag 3 wordt hier een concrete stap: <i>eerst uitzoeken hoe...</i></p><div class=\"canvas-groep\" data-laag=\"Laag 4 · Concrete stappen\"><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag4-stap-1\">Stap 1</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag4-stap-1\" name=\"laag4-stap-1\" rows=\"2\" placeholder=\"Wat ik deze week concreet ga doen\"></textarea></div><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag4-stap-2\">Stap 2</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag4-stap-2\" name=\"laag4-stap-2\" rows=\"2\" placeholder=\"Wat ik deze week concreet ga doen\"></textarea></div><div class=\"canvas-rij\"><label class=\"canvas-label\" for=\"laag4-stap-3\">Stap 3</label><textarea class=\"canvas-invoer js-canvas-veld\" id=\"laag4-stap-3\" name=\"laag4-stap-3\" rows=\"2\" placeholder=\"Wat ik deze week concreet ga doen\"></textarea></div></div>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-8051",
+    "_parentId": "b-8051",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Neem je canvas mee",
+    "displayTitle": "Neem je canvas mee",
+    "body": "<p>Je deconstructie staat hierboven. Neem hem over in je projectmap, want dit blijft alleen in deze browser bewaard.</p><div class=\"canvas-acties\"><button type=\"button\" class=\"btn-canvas js-canvas-kopieren\">Kopieer als tekst</button> <button type=\"button\" class=\"btn-canvas btn-canvas--stil js-canvas-wissen\">Wis mijn canvas</button><span class=\"canvas-melding js-canvas-melding\" role=\"status\" aria-live=\"polite\"></span></div>",
+    "instruction": ""
+  },
+  {
+    "_id": "c-806",
+    "_parentId": "b-806",
+    "_type": "component",
+    "_component": "text",
+    "_classes": "",
+    "_layout": "full",
+    "title": "Nu naar je backlog",
+    "displayTitle": "Nu naar je backlog",
+    "body": "<p>Je bovenste laag is je startpunt voor de product backlog. Geef elke stap een prioriteit en een eigenaar, en plan de eerste twee in sprint 1 (02 Scrum).</p><p>Je leerstappen vormen je onderzoekslijst. Werk die af voordat ze je bouwwerk blokkeren.</p>",
+    "instruction": ""
+  }
+]

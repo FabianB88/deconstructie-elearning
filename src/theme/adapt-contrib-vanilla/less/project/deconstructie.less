@@ -1,0 +1,128 @@
+// Deconstructie — projectstijl
+// Klassen die in de cursus-JSON via _classes worden gezet.
+// ==================================================
+
+// Rustpunt tussen blokken. Geeft de pagina ritme zonder kopjes te hoeven stapelen.
+// --------------------------------------------------
+.block.separator > .block__inner {
+  border-top: 1px solid @grey;
+  padding-top: 2.5rem;
+}
+
+// Aandachtsblok. Voor waarschuwingen en kanttekeningen.
+// --------------------------------------------------
+.component.attention {
+  .component__inner {
+    background-color: fade(@blue, 6%);
+    border-inline-start: 4px solid @blue;
+    border-radius: 0.5rem;
+    padding: 1.75rem 2rem;
+  }
+
+  .component__title-inner {
+    color: @blueDark;
+  }
+}
+
+// Invulcanvas
+// De velden zijn gewone textarea's, geen vraagcomponent. Zie
+// js/deconstructieCanvas.js voor waarom, en voor de opslag.
+// --------------------------------------------------
+.component.canvas-veld {
+  .component__inner {
+    background-color: @greyLight;
+    border: 1px solid @grey;
+    border-radius: 0.5rem;
+    padding: 1.75rem 2rem 2rem;
+  }
+}
+
+.canvas-groep {
+  margin-top: 1.5rem;
+}
+
+.canvas-rij + .canvas-rij {
+  margin-top: 1.25rem;
+}
+
+.canvas-label {
+  display: block;
+  margin-bottom: 0.375rem;
+  font-size: 0.8125rem;
+  font-weight: bold;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: @blueDark;
+}
+
+.canvas-invoer {
+  display: block;
+  width: 100%;
+  padding: 0.75rem 0.875rem;
+  border: 1px solid @grey;
+  border-radius: 0.375rem;
+  background-color: @white;
+  color: @font-color;
+  font-family: inherit;
+  font-size: 1rem;
+  line-height: 1.5;
+  resize: vertical;
+
+  &:focus {
+    outline: 2px solid @blue;
+    outline-offset: 1px;
+    border-color: @blue;
+  }
+
+  &::placeholder {
+    color: fade(@font-color, 55%);
+  }
+}
+
+// Knoppen onder het canvas
+// --------------------------------------------------
+.canvas-acties {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.75rem;
+  margin-top: 1.25rem;
+}
+
+.btn-canvas {
+  padding: 0.6875rem 1.25rem;
+  border: 1px solid @blue;
+  border-radius: 0.375rem;
+  background-color: @blue;
+  color: @white;
+  font-family: inherit;
+  font-size: 0.9375rem;
+  font-weight: bold;
+  cursor: pointer;
+
+  &:hover {
+    background-color: darken(@blue, 10%);
+    border-color: darken(@blue, 10%);
+  }
+
+  &:focus-visible {
+    outline: 2px solid @blueDark;
+    outline-offset: 2px;
+  }
+
+  // Tweede keus: wissen mag minder hard schreeuwen dan kopiëren.
+  &--stil {
+    background-color: transparent;
+    color: @blueDark;
+
+    &:hover {
+      background-color: fade(@blue, 8%);
+      border-color: @blueDark;
+    }
+  }
+}
+
+.canvas-melding {
+  color: @blueDark;
+  font-size: 0.9375rem;
+}
