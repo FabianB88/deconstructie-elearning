@@ -2,51 +2,51 @@
 <title id="t6">De vijf stappen met hun stopsignaal</title>
 <desc id="d6">Vijf stappen onder elkaar, verbonden door een verticale lijn. Stap 1: schets onderaan je einddoel, klaar als iemand buiten je groep begrijpt wat er straks ligt. Stap 2: wat heb ik daarvoor nodig, klaar als je drie tot vijf bouwstenen hebt die je niet kunt missen. Stap 3: hoe maken we dit echt goed, klaar als er minstens een leerstap staat. Stap 4: werk uit in concrete stappen, klaar als iemand anders ze zou kunnen uitvoeren zonder jou. Stap 5: zet om in scrum-taken, klaar als alles op de backlog staat met een eigenaar. De eerste vier stappen vormen de deconstructie zelf, stap 5 valt daarbuiten.</desc>
 <style>
-  .t{font-family:Arial,Helvetica,sans-serif}
-  .kop{font-size:17px;font-weight:bold;fill:#1C1C1E}
-  .sub{font-size:13.5px;fill:#46464B}
-  .st{font-size:15px;font-weight:bold;fill:#1C1C1E}
-  .kl{font-size:13px;fill:#46464B}
-  .klaar{font-size:10.5px;font-weight:bold;letter-spacing:.09em;fill:#1E8A5A}
+  .t{font-family:Inter,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+  .kop{font-size:17px;font-weight:bold;fill:#1C1713}
+  .sub{font-size:13.5px;fill:#7A6E66}
+  .st{font-size:15px;font-weight:bold;fill:#1C1713}
+  .kl{font-size:13px;fill:#7A6E66}
+  .klaar{font-size:10.5px;font-weight:bold;letter-spacing:.09em;fill:#4A7A52}
   .num{font-size:15px;font-weight:bold;fill:#FFFFFF}
-  .rail{font-size:10.5px;font-weight:bold;letter-spacing:.12em;fill:#B00061}
+  .rail{font-size:10.5px;font-weight:bold;letter-spacing:.12em;fill:#47613F}
 </style>
 <rect width="900" height="596" fill="#FFFFFF"/>
 <text class="t kop" x="30" y="38">De vijf stappen — en waaraan je merkt dat je klaar bent</text>
 <text class="t sub" x="30" y="60">Elke stap heeft een eigen stopsignaal. Zonder dat blijf je doorgaan.</text>
 
-<rect x="18" y="96" width="16" height="404" rx="8" fill="#FDEBF4"/>
+<rect x="18" y="96" width="16" height="404" rx="8" fill="#EDF3EC"/>
 <text class="t rail" transform="translate(30,352) rotate(-90)">DE DECONSTRUCTIE</text>
-<line x1="72" y1="112" x2="72" y2="496" stroke="#F5B8D8" stroke-width="3"/>
+<line x1="72" y1="112" x2="72" y2="496" stroke="#D0E3CF" stroke-width="3"/>
 
 <g class="t">
-  <circle cx="72" cy="112" r="19" fill="#E5007D"/><text class="num" x="72" y="118" text-anchor="middle">1</text>
+  <circle cx="72" cy="112" r="19" fill="#5C7A5A"/><text class="num" x="72" y="118" text-anchor="middle">1</text>
   <text class="st" x="110" y="106">Schets onderaan je einddoel</text>
   <text class="klaar" x="110" y="128">KLAAR ALS</text>
   <text class="kl" x="190" y="128">iemand buiten je groep begrijpt wat er straks ligt.</text>
 
-  <circle cx="72" cy="208" r="19" fill="#E5007D"/><text class="num" x="72" y="214" text-anchor="middle">2</text>
+  <circle cx="72" cy="208" r="19" fill="#5C7A5A"/><text class="num" x="72" y="214" text-anchor="middle">2</text>
   <text class="st" x="110" y="202">Wat heb ik daarvoor nodig?</text>
   <text class="klaar" x="110" y="224">KLAAR ALS</text>
   <text class="kl" x="190" y="224">je 3 tot 5 elementen hebt die je niet kunt missen.</text>
 
-  <circle cx="72" cy="304" r="19" fill="#E5007D"/><text class="num" x="72" y="310" text-anchor="middle">3</text>
+  <circle cx="72" cy="304" r="19" fill="#5C7A5A"/><text class="num" x="72" y="310" text-anchor="middle">3</text>
   <text class="st" x="110" y="298">Hoe maken we dit echt goed?</text>
   <text class="klaar" x="110" y="320">KLAAR ALS</text>
   <text class="kl" x="190" y="320">er minstens één leerstap staat. Geen enkele? Kijk nog eens.</text>
 
-  <circle cx="72" cy="400" r="19" fill="#E5007D"/><text class="num" x="72" y="406" text-anchor="middle">4</text>
+  <circle cx="72" cy="400" r="19" fill="#5C7A5A"/><text class="num" x="72" y="406" text-anchor="middle">4</text>
   <text class="st" x="110" y="394">Werk uit in concrete stappen</text>
   <text class="klaar" x="110" y="416">KLAAR ALS</text>
   <text class="kl" x="190" y="416">iemand anders ze zou kunnen uitvoeren zonder jou erbij.</text>
 
-  <circle cx="72" cy="496" r="19" fill="#FFFFFF" stroke="#E5007D" stroke-width="2.5"/>
-  <text class="num" x="72" y="502" text-anchor="middle" fill="#E5007D">5</text>
+  <circle cx="72" cy="496" r="19" fill="#FFFFFF" stroke="#5C7A5A" stroke-width="2.5"/>
+  <text class="num" x="72" y="502" text-anchor="middle" fill="#5C7A5A">5</text>
   <text class="st" x="110" y="490">Zet om in scrum-taken</text>
   <text class="klaar" x="110" y="512">KLAAR ALS</text>
   <text class="kl" x="190" y="512">alles op de backlog staat met een eigenaar erachter.</text>
 </g>
 
-<rect x="100" y="538" width="770" height="42" rx="9" fill="#F4F4F6" stroke="#E4E4E8" stroke-width="1.5"/>
+<rect x="100" y="538" width="770" height="42" rx="9" fill="#F2EEE9" stroke="#E4DDD6" stroke-width="1.5"/>
 <text class="t kl" x="120" y="564">Stap 5 valt buiten de deconstructie: daar gaat je bovenste laag over naar je scrum-backlog.</text>
 </svg>

@@ -2,105 +2,105 @@
 <title id="t5">Deconstructie van een vergelijkingspagina</title>
 <desc id="d5">Een deconstructie in vier lagen, gelezen van onder naar boven. Onderaan het einddoel: een webpagina die drie circulaire isolatiematerialen vergelijkt. Daarboven drie richtingen: een kloppende vergelijking, een helder pagina-ontwerp en een manier om te bouwen. Daarboven per richting wat je moet weten of kunnen, waarvan de twee rechter vakken gestippeld zijn omdat het leerstappen zijn. Bovenaan drie concrete stappen voor deze week, met daarboven een balk naar de scrum-taken.</desc>
 <style>
-  .t{font-family:Arial,Helvetica,sans-serif}
-  .lab{font-size:11.5px;font-weight:bold;letter-spacing:.09em;fill:#E5007D}
-  .bx{font-size:13.5px;fill:#1C1C1E}
-  .bxb{font-size:14px;font-weight:bold;fill:#1C1C1E}
+  .t{font-family:Inter,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+  .lab{font-size:11.5px;font-weight:bold;letter-spacing:.09em;fill:#5C7A5A}
+  .bx{font-size:13.5px;fill:#1C1713}
+  .bxb{font-size:14px;font-weight:bold;fill:#1C1713}
   .w{font-size:15px;font-weight:bold;fill:#FFFFFF}
-  .wk{font-size:11.5px;font-weight:bold;letter-spacing:.09em;fill:#FDEBF4}
-  .scrum{font-size:14px;font-weight:bold;fill:#B00061}
-  .leer{font-size:10.5px;font-weight:bold;letter-spacing:.08em;fill:#B00061}
-  .rail{font-size:11.5px;font-weight:bold;letter-spacing:.15em;fill:#B00061}
-  .leg{font-size:12px;fill:#46464B}
+  .wk{font-size:11.5px;font-weight:bold;letter-spacing:.09em;fill:#EDF3EC}
+  .scrum{font-size:14px;font-weight:bold;fill:#47613F}
+  .leer{font-size:10.5px;font-weight:bold;letter-spacing:.08em;fill:#47613F}
+  .rail{font-size:11.5px;font-weight:bold;letter-spacing:.15em;fill:#47613F}
+  .leg{font-size:12px;fill:#7A6E66}
 </style>
 <rect width="900" height="596" fill="#FFFFFF"/>
 
-<line x1="26" y1="540" x2="26" y2="150" stroke="#F5B8D8" stroke-width="2.5"/>
-<polygon points="26,136 20,154 32,154" fill="#E5007D"/>
+<line x1="26" y1="540" x2="26" y2="150" stroke="#D0E3CF" stroke-width="2.5"/>
+<polygon points="26,136 20,154 32,154" fill="#5C7A5A"/>
 <text class="t rail" transform="translate(16,400) rotate(-90)">LEES VAN ONDER NAAR BOVEN</text>
 
 <g class="t">
-  <rect x="60" y="18" width="810" height="44" rx="9" fill="#FDEBF4" stroke="#E5007D" stroke-width="2" stroke-dasharray="7 5"/>
+  <rect x="60" y="18" width="810" height="44" rx="9" fill="#EDF3EC" stroke="#5C7A5A" stroke-width="2" stroke-dasharray="7 5"/>
   <text class="scrum" x="465" y="45" text-anchor="middle">Deze drie stappen gaan naar de product backlog — de eerste twee in sprint 1</text>
 </g>
-<polygon points="465,78 458,64 472,64" fill="#9A9AA2"/>
+<polygon points="465,78 458,64 472,64" fill="#B0A49A"/>
 
 <text class="t lab" x="60" y="102">LAAG 4 · CONCRETE STAPPEN — WAT WE DEZE WEEK DOEN</text>
 <g class="t">
-  <rect x="60" y="112" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#E4E4E8" stroke-width="1.5"/>
-  <rect x="60" y="112" width="6" height="86" rx="3" fill="#E5007D"/>
+  <rect x="60" y="112" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#E4DDD6" stroke-width="1.5"/>
+  <rect x="60" y="112" width="6" height="86" rx="3" fill="#5C7A5A"/>
   <text class="bx" x="80" y="140">Drie materialen en de</text>
   <text class="bx" x="80" y="159">vergelijkingscriteria kiezen,</text>
   <text class="bx" x="80" y="178">daarna per materiaal data</text>
   <text class="bx" x="80" y="192" font-size="13.5">opzoeken en checken.</text>
 
-  <rect x="340" y="112" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#E4E4E8" stroke-width="1.5"/>
-  <rect x="340" y="112" width="6" height="86" rx="3" fill="#E5007D"/>
+  <rect x="340" y="112" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#E4DDD6" stroke-width="1.5"/>
+  <rect x="340" y="112" width="6" height="86" rx="3" fill="#5C7A5A"/>
   <text class="bx" x="360" y="140">Ons verdiepen in de opbouw</text>
   <text class="bx" x="360" y="159">van een vergelijkingspagina:</text>
   <text class="bx" x="360" y="178">drie goede voorbeelden</text>
   <text class="bx" x="360" y="192" font-size="13.5">zoeken en ontleden.</text>
 
-  <rect x="620" y="112" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#E4E4E8" stroke-width="1.5"/>
-  <rect x="620" y="112" width="6" height="86" rx="3" fill="#E5007D"/>
+  <rect x="620" y="112" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#E4DDD6" stroke-width="1.5"/>
+  <rect x="620" y="112" width="6" height="86" rx="3" fill="#5C7A5A"/>
   <text class="bx" x="640" y="140">Een tool kiezen en de</text>
   <text class="bx" x="640" y="159">mini-briefing invullen</text>
   <text class="bx" x="640" y="178">.</text>
 </g>
-<g fill="#9A9AA2">
+<g fill="#B0A49A">
   <polygon points="185,212 178,198 192,198"/><polygon points="465,212 458,198 472,198"/><polygon points="745,212 738,198 752,198"/>
 </g>
 
 <text class="t lab" x="60" y="238">LAAG 3 · WAT MOETEN WE DAARVOOR WETEN OF KUNNEN?</text>
 <g class="t">
-  <rect x="60" y="248" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <rect x="60" y="248" width="250" height="86" rx="9" fill="#FFFFFF" stroke="#5C7A5A" stroke-width="2"/>
   <text class="bxb" x="80" y="276">Deels bekend</text>
   <text class="bx" x="80" y="298">Welke criteria je vergelijkt,</text>
   <text class="bx" x="80" y="317">en betrouwbare data per</text>
   <text class="bx" x="80" y="330" font-size="13.5">materiaal.</text>
 
-  <rect x="340" y="248" width="250" height="86" rx="9" fill="#FDEBF4" stroke="#E5007D" stroke-width="2" stroke-dasharray="7 5"/>
+  <rect x="340" y="248" width="250" height="86" rx="9" fill="#EDF3EC" stroke="#5C7A5A" stroke-width="2" stroke-dasharray="7 5"/>
   <text class="leer" x="360" y="272">LEERSTAP · NOG UITZOEKEN</text>
   <text class="bx" x="360" y="296">Hoe bouw je een leesbare</text>
   <text class="bx" x="360" y="315">vergelijkingspagina op?</text>
 
-  <rect x="620" y="248" width="250" height="86" rx="9" fill="#FDEBF4" stroke="#E5007D" stroke-width="2" stroke-dasharray="7 5"/>
+  <rect x="620" y="248" width="250" height="86" rx="9" fill="#EDF3EC" stroke="#5C7A5A" stroke-width="2" stroke-dasharray="7 5"/>
   <text class="leer" x="640" y="272">LEERSTAP · NOG UITZOEKEN</text>
   <text class="bx" x="640" y="296">Met welke tool maak je zo'n</text>
   <text class="bx" x="640" y="315">site zonder te programmeren?</text>
 </g>
-<g fill="#9A9AA2">
+<g fill="#B0A49A">
   <polygon points="185,348 178,334 192,334"/><polygon points="465,348 458,334 472,334"/><polygon points="745,348 738,334 752,334"/>
 </g>
 
 <text class="t lab" x="60" y="374">LAAG 2 · WAT HEBBEN WE DAARVOOR NODIG?</text>
 <g class="t">
-  <rect x="60" y="384" width="250" height="60" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <rect x="60" y="384" width="250" height="60" rx="9" fill="#FFFFFF" stroke="#5C7A5A" stroke-width="2"/>
   <text class="bxb" x="185" y="420" text-anchor="middle">Kloppende vergelijking</text>
 
-  <rect x="340" y="384" width="250" height="60" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <rect x="340" y="384" width="250" height="60" rx="9" fill="#FFFFFF" stroke="#5C7A5A" stroke-width="2"/>
   <text class="bxb" x="465" y="420" text-anchor="middle">Helder pagina-ontwerp</text>
 
-  <rect x="620" y="384" width="250" height="60" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <rect x="620" y="384" width="250" height="60" rx="9" fill="#FFFFFF" stroke="#5C7A5A" stroke-width="2"/>
   <text class="bxb" x="745" y="420" text-anchor="middle">Manier om te bouwen</text>
 </g>
-<g stroke="#C9C9D0" stroke-width="1.5" fill="none">
+<g stroke="#D9D0C8" stroke-width="1.5" fill="none">
   <path d="M185 458 L185 470 L465 470 L465 458"/><path d="M745 458 L745 470 L465 470"/>
 </g>
-<g fill="#9A9AA2">
+<g fill="#B0A49A">
   <polygon points="185,458 178,444 192,444"/><polygon points="465,458 458,444 472,444"/><polygon points="745,458 738,444 752,444"/>
 </g>
-<polygon points="465,484 458,470 472,470" fill="#9A9AA2"/>
+<polygon points="465,484 458,470 472,470" fill="#B0A49A"/>
 
 <text class="t lab" x="60" y="504">LAAG 1 · EINDDOEL — HIER BEGONNEN WE</text>
 <g class="t">
-  <rect x="60" y="514" width="810" height="58" rx="9" fill="#E5007D"/>
+  <rect x="60" y="514" width="810" height="58" rx="9" fill="#5C7A5A"/>
   <text class="wk" x="465" y="536" text-anchor="middle">EINDDOEL · SCHETS / BEELDVORMING</text>
   <text class="w" x="465" y="558" text-anchor="middle">Een webpagina die drie circulaire isolatiematerialen vergelijkt</text>
 </g>
 
 <g class="t">
-  <rect x="60" y="580" width="22" height="12" rx="3" fill="#FDEBF4" stroke="#E5007D" stroke-width="1.5" stroke-dasharray="4 3"/>
+  <rect x="60" y="580" width="22" height="12" rx="3" fill="#EDF3EC" stroke="#5C7A5A" stroke-width="1.5" stroke-dasharray="4 3"/>
   <text class="leg" x="92" y="590">= leerstap: dit weten we nog niet, dus het gaat op onze onderzoekslijst</text>
 </g>
 </svg>

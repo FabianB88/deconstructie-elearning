@@ -2,51 +2,51 @@
 <title id="t4">Hoe je een leerstap herkent</title>
 <desc id="d4">Een beslisschema. Je begint bij een richting uit laag 2 en stelt de vraag: weten we echt hoe dit moet? Bij ja wordt het een gewone stap die je meteen kunt inplannen. Bij nee is het een leerstap: die markeer je apart, hij gaat op je onderzoekslijst, en in laag 4 wordt hij een concrete stap die begint met eerst uitzoeken hoe.</desc>
 <style>
-  .t{font-family:Arial,Helvetica,sans-serif}
-  .kop{font-size:17px;font-weight:bold;fill:#1C1C1E}
-  .vraag{font-size:15.5px;font-weight:bold;fill:#1C1C1E}
-  .bx{font-size:14.5px;font-weight:bold;fill:#1C1C1E}
-  .kl{font-size:13px;fill:#46464B}
+  .t{font-family:Inter,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
+  .kop{font-size:17px;font-weight:bold;fill:#1C1713}
+  .vraag{font-size:15.5px;font-weight:bold;fill:#1C1713}
+  .bx{font-size:14.5px;font-weight:bold;fill:#1C1713}
+  .kl{font-size:13px;fill:#7A6E66}
   .tak{font-size:13px;font-weight:bold;letter-spacing:.08em}
-  .lab{font-size:11.5px;font-weight:bold;letter-spacing:.09em;fill:#E5007D}
+  .lab{font-size:11.5px;font-weight:bold;letter-spacing:.09em;fill:#5C7A5A}
 </style>
 <rect width="900" height="456" fill="#FFFFFF"/>
 <text class="t kop" x="30" y="38">Hoe je bij laag 3 een leerstap herkent</text>
 
 <g class="t">
-  <rect x="330" y="62" width="240" height="52" rx="10" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <rect x="330" y="62" width="240" height="52" rx="10" fill="#FFFFFF" stroke="#5C7A5A" stroke-width="2"/>
   <text class="bx" x="450" y="86" text-anchor="middle">Een richting uit laag 2</text>
   <text class="kl" x="450" y="105" text-anchor="middle" font-size="12.5">bijvoorbeeld: visueel ontwerp</text>
-  <line x1="450" y1="114" x2="450" y2="132" stroke="#C9C9D0" stroke-width="2"/>
-  <polygon points="450,140 443,126 457,126" fill="#9A9AA2"/>
+  <line x1="450" y1="114" x2="450" y2="132" stroke="#D9D0C8" stroke-width="2"/>
+  <polygon points="450,140 443,126 457,126" fill="#B0A49A"/>
 
-  <polygon points="450,146 690,206 450,266 210,206" fill="#FDEBF4" stroke="#E5007D" stroke-width="2"/>
+  <polygon points="450,146 690,206 450,266 210,206" fill="#EDF3EC" stroke="#5C7A5A" stroke-width="2"/>
   <text class="vraag" x="450" y="200" text-anchor="middle">Weten we echt hoe</text>
   <text class="vraag" x="450" y="220" text-anchor="middle">dit moet?</text>
 
-  <line x1="210" y1="206" x2="150" y2="206" stroke="#C9C9D0" stroke-width="2"/>
-  <line x1="150" y1="206" x2="150" y2="300" stroke="#C9C9D0" stroke-width="2"/>
-  <polygon points="150,308 143,294 157,294" fill="#9A9AA2"/>
-  <text class="t tak" x="164" y="200" fill="#1E8A5A">JA</text>
+  <line x1="210" y1="206" x2="150" y2="206" stroke="#D9D0C8" stroke-width="2"/>
+  <line x1="150" y1="206" x2="150" y2="300" stroke="#D9D0C8" stroke-width="2"/>
+  <polygon points="150,308 143,294 157,294" fill="#B0A49A"/>
+  <text class="t tak" x="164" y="200" fill="#4A7A52">JA</text>
 
-  <line x1="690" y1="206" x2="750" y2="206" stroke="#E5007D" stroke-width="2"/>
-  <line x1="750" y1="206" x2="750" y2="300" stroke="#E5007D" stroke-width="2"/>
-  <polygon points="750,308 743,294 757,294" fill="#E5007D"/>
-  <text class="t tak" x="700" y="200" fill="#B00061">NEE</text>
+  <line x1="690" y1="206" x2="750" y2="206" stroke="#5C7A5A" stroke-width="2"/>
+  <line x1="750" y1="206" x2="750" y2="300" stroke="#5C7A5A" stroke-width="2"/>
+  <polygon points="750,308 743,294 757,294" fill="#5C7A5A"/>
+  <text class="t tak" x="700" y="200" fill="#47613F">NEE</text>
 
-  <rect x="30" y="314" width="240" height="76" rx="10" fill="#FFFFFF" stroke="#E4E4E8" stroke-width="1.5"/>
+  <rect x="30" y="314" width="240" height="76" rx="10" fill="#FFFFFF" stroke="#E4DDD6" stroke-width="1.5"/>
   <text class="bx" x="150" y="344" text-anchor="middle">Gewone stap</text>
   <text class="kl" x="150" y="366" text-anchor="middle">Je kunt hem meteen</text>
   <text class="kl" x="150" y="382" text-anchor="middle">inplannen.</text>
 
-  <rect x="630" y="314" width="240" height="76" rx="10" fill="#FDEBF4" stroke="#E5007D" stroke-width="2" stroke-dasharray="7 5"/>
+  <rect x="630" y="314" width="240" height="76" rx="10" fill="#EDF3EC" stroke="#5C7A5A" stroke-width="2" stroke-dasharray="7 5"/>
   <text class="lab" x="750" y="338" text-anchor="middle">LEERSTAP</text>
   <text class="kl" x="750" y="360" text-anchor="middle">Markeer hem apart. Hij</text>
   <text class="kl" x="750" y="376" text-anchor="middle">gaat op je onderzoekslijst.</text>
 
-  <line x1="630" y1="352" x2="560" y2="352" stroke="#F5B8D8" stroke-width="2.5" stroke-dasharray="6 4"/>
-  <polygon points="552,352 566,345 566,359" fill="#E5007D"/>
-  <rect x="292" y="326" width="256" height="52" rx="10" fill="#FFFFFF" stroke="#F5B8D8" stroke-width="2"/>
+  <line x1="630" y1="352" x2="560" y2="352" stroke="#D0E3CF" stroke-width="2.5" stroke-dasharray="6 4"/>
+  <polygon points="552,352 566,345 566,359" fill="#5C7A5A"/>
+  <rect x="292" y="326" width="256" height="52" rx="10" fill="#FFFFFF" stroke="#D0E3CF" stroke-width="2"/>
   <text class="kl" x="420" y="348" text-anchor="middle">In laag 4 wordt hij:</text>
   <text class="bx" x="420" y="368" text-anchor="middle" font-size="13.5">"eerst uitzoeken hoe..."</text>
 </g>

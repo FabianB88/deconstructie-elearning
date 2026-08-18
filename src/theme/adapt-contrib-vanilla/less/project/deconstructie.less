@@ -220,3 +220,48 @@
   width: 100%;
   height: auto;
 }
+
+// Green Office-vormgeving
+// Tokens uit lib/theme.dart van de Flutter-app, zodat de e-learning naadloos
+// aansluit als je er vanuit de app op klikt.
+// --------------------------------------------------
+body,
+.component__title-inner,
+.block__title-inner,
+.page__title-inner,
+.menu-item__title-inner,
+button,
+input,
+textarea,
+select {
+  font-family: Inter, -apple-system, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+}
+
+// Kaarten 14px, knoppen en velden 10px — zoals in de app
+.menu-item__inner,
+.component.attention .component__inner,
+.component.canvas-veld .component__inner {
+  border-radius: 14px;
+}
+
+.btn-canvas,
+.paginanav__knop,
+.canvas-invoer,
+.btn__action,
+.js-btn-action {
+  border-radius: 10px;
+}
+
+// Kaarten: witte vlakken op de warme achtergrond, zachte rand en schaduw
+.menu-item__inner {
+  background-color: #FFFFFF;
+  border: 1px solid @grey;
+  box-shadow: 0 2px 12px rgba(0, 0, 0, 0.08);
+}
+
+// De gedimde kleur uit de app haalt geen AA voor tekst, dus placeholders
+// krijgen de secundaire tekstkleur in plaats van de muted-kleur.
+.canvas-invoer::placeholder {
+  color: @greyDark;
+  opacity: 1;
+}
