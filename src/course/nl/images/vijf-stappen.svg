@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 596" width="900" height="596" role="img" aria-labelledby="t6 d6">
 <title id="t6">De vijf stappen met hun stopsignaal</title>
-<desc id="d6">Vijf stappen onder elkaar, verbonden door een verticale lijn. Stap 1: schets onderaan je einddoel, klaar als iemand buiten je groep begrijpt wat er straks ligt. Stap 2: wat heb ik daarvoor nodig, klaar als je drie tot vijf bouwstenen hebt die je niet kunt missen. Stap 3: hoe maken we dit echt goed, klaar als er minstens een leerstap staat. Stap 4: werk uit in concrete stappen, klaar als iemand anders ze zou kunnen uitvoeren zonder jou. Stap 5: zet om in scrum-taken, klaar als alles op de backlog staat met een eigenaar. De eerste vier stappen vormen de deconstructie zelf, stap 5 valt daarbuiten.</desc>
+<desc id="d6">Vijf stappen onder elkaar, verbonden door een verticale lijn. Stap 1: schets onderaan je einddoel, klaar als iemand buiten je groep begrijpt wat er straks ligt. Stap 2: wat heb ik daarvoor nodig, klaar als je drie tot vijf bouwstenen hebt die je niet kunt missen. Stap 3: hoe maken we dit echt goed, klaar als je per element in stukken hebt opgedeeld wat er nodig is. Stap 4: werk uit in concrete stappen, klaar als elk stuk uit laag 3 een taak is die iemand anders kan uitvoeren. Stap 5: zet om in scrum-taken, klaar als alles op de backlog staat met een eigenaar. De eerste vier stappen vormen de deconstructie zelf, stap 5 valt daarbuiten.</desc>
 <style>
   .t{font-family:Inter,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif}
   .kop{font-size:17px;font-weight:bold;fill:#1C1713}
@@ -33,12 +33,12 @@
   <circle cx="72" cy="304" r="19" fill="#5C7A5A"/><text class="num" x="72" y="310" text-anchor="middle">3</text>
   <text class="st" x="110" y="298">Hoe maken we dit echt goed?</text>
   <text class="klaar" x="110" y="320">KLAAR ALS</text>
-  <text class="kl" x="190" y="320">er minstens één leerstap staat. Geen enkele? Kijk nog eens.</text>
+  <text class="kl" x="190" y="320">je per element in stukken hebt opgedeeld wát er nodig is.</text>
 
   <circle cx="72" cy="400" r="19" fill="#5C7A5A"/><text class="num" x="72" y="406" text-anchor="middle">4</text>
   <text class="st" x="110" y="394">Werk uit in concrete stappen</text>
   <text class="klaar" x="110" y="416">KLAAR ALS</text>
-  <text class="kl" x="190" y="416">iemand anders ze zou kunnen uitvoeren zonder jou erbij.</text>
+  <text class="kl" x="190" y="416">elk stuk uit laag 3 een taak is die iemand anders kan uitvoeren.</text>
 
   <circle cx="72" cy="496" r="19" fill="#FFFFFF" stroke="#5C7A5A" stroke-width="2.5"/>
   <text class="num" x="72" y="502" text-anchor="middle" fill="#5C7A5A">5</text>

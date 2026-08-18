@@ -284,12 +284,12 @@ accordion("c-203", "b-203", "Wat elke laag precies inhoudt",
                "body": "<p><b>De vraag:</b> hoe maken we dit <i>echt goed</i>, en wat moeten we daarvoor kunnen en weten?</p>"
                        "<p>Let op die formulering. De vraag is niet hoe je het <i>af</i> krijgt, maar hoe je het <i>goed</i> krijgt. Dat verschil bepaalt alles wat er daarna gebeurt. Vraag je hoe je het af krijgt, dan komt er een lijstje met wat je toevallig al kunt. Vraag je hoe je het echt goed maakt, dan kom je vanzelf uit bij wat je nog niet weet — en dat is precies wat je zoekt.</p>"
                        "<p>Deze vraag stel je bij <b>elk element</b> uit laag 2, niet bij het geheel. Werk niveau-verhogend: bij elk onderdeel apart de lat leggen op goed, niet op klaar.</p>"
-                       "<p><b>Wat eruit komt:</b> twee soorten antwoorden. Dingen die je al weet of kunt, en dingen die je nog moet uitzoeken. Dat tweede type heet een <b>leerstap</b>, en die markeer je apart.</p>"
+                       "<p><b>Wat eruit komt:</b> je ontleedt per element concreet wát er nodig is om het goed te maken. Dit is nog niet je takenlijst — het is de laag waarin je scherp krijgt waar het werk zit, opgedeeld in stukken.</p>""<p>Die stukken vallen in twee soorten. <b>Dingen waarvan je weet dat ze moeten gebeuren:</b> bij een vergelijking zijn dat bijvoorbeeld de criteria, de databronnen en de controle op betrouwbaarheid. Drie losse stukken, geen één vaag blok. En <b>dingen die je eerst moet uitzoeken:</b> dat zijn je <b>leerstappen</b>, en die markeer je apart.</p>""<p>Hoe fijner je hier opdeelt, hoe makkelijker laag 4 wordt. Uit één groot stuk komt één vage taak; uit drie scherpe stukken komen drie taken die je kunt inplannen.</p>""<p>Let op de verhouding: staan er alleen maar leerstappen, dan ben je nog niet concreet genoeg geworden. De vraag \"hoe maken we dit echt goed\" levert bij elk element ook stukken op waarvan je précies weet wat er moet gebeuren.</p>"
                        "<p><b>Voorbeeld:</b> bij het element 'visueel ontwerp' is de vraag niet \"kunnen we iets in elkaar zetten?\" maar \"wat maakt een infographic echt goed, en weten we dat?\". Het antwoord is nee — dus dat is een leerstap.</p>"
                        "<p><b>Waar het misgaat:</b> te snel zeggen dat je iets weet. Twijfel je? Dan is het een leerstap. Op de volgende pagina staat een schema dat die keuze voor je maakt.</p>"},
               {"title": "Laag 4 · Concrete stappen — bovenaan",
                "body": "<p><b>De vraag:</b> wat ga ik nu concreet doen?</p>"
-                       "<p><b>Wat eruit komt:</b> acties die je maandag kunt oppakken. Zo concreet dat iemand anders ze zou kunnen uitvoeren.</p>"
+                       "<p><b>Wat eruit komt:</b> acties die je maandag kunt oppakken. Zo concreet dat iemand anders ze zou kunnen uitvoeren.</p>""<p><b>Dit is de stap waar het taken worden.</b> Laag 3 gaf je de stukken; hier maak je er werk van dat een naam en een dag kan krijgen. Elk stuk uit laag 3 levert hier minstens één taak op — de stukken die je al kende worden gewone taken, de leerstappen worden taken die beginnen met uitzoeken.</p>"
                        "<p><b>Voorbeeld:</b> een leerstap uit laag 3 wordt hier een gewone taak. \"We weten niet hoe je een leesbare infographic opbouwt\" wordt: \"drie goede infographics zoeken en ontleden, donderdag klaar\".</p>"
                        "<p><b>Waar het misgaat:</b> doorgaan met vertakken. Zodra je bij uitvoerbare stappen bent, ben je klaar. Deze laag verhuist naar je product backlog en daar krijgt elke stap een prioriteit en een eigenaar.</p>"}
           ])
@@ -333,7 +333,7 @@ text("c-300", "b-300", "Een echte deconstructie, laag voor laag",
 block("b-301", "a-30", "Het voorbeeld", classes="separator")
 graphic("c-301", "b-301", "course/nl/images/deconstructie-voorbeeld.jpg",
         "Uitgewerkte deconstructie in vier lagen. Onderaan het einddoel in magenta: een infographic over hoe voedselverspilling in de keten ontstaat. Daarboven drie richtingen: kloppende inhoud, visueel ontwerp en een tool om te maken. Daarboven wat je moet weten of kunnen, met twee witte vakken die bekend zijn en twee gestippelde roze vakken gemarkeerd als nog uitzoeken. Bovenaan vier concrete stappen met het label nu, en daarboven een gestippelde balk: volgende stap, zet de concrete stappen om in scrum-taken.",
-        "De gestippelde roze vakken zijn leerstappen: dat weet het duo nog niet.",
+        "De gestippelde vakken zijn leerstappen: dat weet het duo nog niet. Versimpeld voorbeeld — een echte deconstructie is een stuk voller.",
         "Deconstructie van een infographic over voedselverspilling")
 
 block("b-302", "a-30", "Laag 1 en 2")
@@ -363,15 +363,16 @@ text("c-305", "b-305", "Bovenaan: wat er maandag gebeurt",
      "<p>De gestippelde balk daarboven valt buiten de deconstructie: die vier taken gaan naar je product backlog en krijgen daar een prioriteit en een eigenaar.</p>")
 
 block("b-306", "a-30", "Waarschuwing", classes="separator")
-text("c-306", "b-306", "Let op: dit voorbeeld is bewust klein gehouden",
-     "<p>Dit ingevulde voorbeeld is <b>erg beperkt</b>. Een echte deconstructie is een stuk uitgebreider: meer richtingen, meer leerstappen, en regelmatig een extra laag omdat één vraag nog niet genoeg was.</p>"
-     "<p>Gebruik dit dus als patroon, niet als maatstaf voor hoe groot de jouwe moet worden. Ziet jouw deconstructie er na een uur werken voller uit dan deze, dan doe je het waarschijnlijk goed.</p>",
+text("c-306", "b-306", "Let op: dit is een versimpelde versie",
+     "<p>Dit voorbeeld is <b>bewust uitgekleed</b>. Het gaat over een kleine opdracht waarbij al veel bekend is, en de blokjes zijn kort gehouden zodat het schema op één beeld past. Puur als voorbeeld dus, om het patroon te laten zien.</p>"
+     "<p><b>Een echte deconstructie ziet er heel anders uit.</b> Die heeft meer richtingen, veel meer leerstappen, en regelmatig een extra laag omdat één vraag nog niet genoeg was. De taken zijn er ook langer en preciezer dan de paar woorden die je hier ziet.</p>"
+     "<p>Gebruik dit dus als patroon, niet als maatstaf. Ziet jouw deconstructie er na een uur werken een stuk voller uit dan deze, dan doe je het waarschijnlijk goed.</p>",
      classes="attention")
 
 block("b-3065", "a-30", "Schema erbij", classes="separator")
 graphic("c-3065", "b-3065", "course/nl/images/deconstructie-voorbeeld.jpg",
         "Dezelfde uitgewerkte deconstructie als bovenaan deze pagina. Vier lagen, met onderaan het einddoel over voedselverspilling, daarboven drie richtingen, daarboven wat je moet weten of kunnen met twee witte en twee gestippelde roze vakken, en bovenaan vier concrete stappen.",
-        "Het schema van bovenaan deze pagina, nog even bij de hand voor de vraag hieronder.",
+        "Het versimpelde schema van bovenaan deze pagina, nog even bij de hand voor de vraag hieronder.",
         "Nog even terugkijken")
 
 block("b-307", "a-30", "Tussenvraag", classes="separator")
@@ -408,8 +409,8 @@ STAPPEN = [
      "<p><b>Klaar als:</b> je drie tot vijf blokken hebt en je bij elk kunt zeggen: zonder dit bestaat mijn einddoel niet. Kun je een blok weglaten zonder dat het einddoel sneuvelt, dan hoort het hier niet.</p>"
      "<p><b>Gaat vaak mis:</b> te diep gaan. Zodra er een werkwoord met een datum in staat, zit je in laag 4. Richtingen zijn zelfstandige naamwoorden: inhoud, ontwerp, tool.</p>"),
     ("Stap 3 · Vraag per richting: wat moet ik weten of kunnen?",
-     "<p><b>Wat je doet:</b> loop je richtingen één voor één langs en stel bij elk dezelfde vraag. Weet je iets niet of kun je iets nog niet, dan is dat een <b>leerstap</b>. Markeer die apart — met een andere kleur, een stippellijn of gewoon een sterretje.</p>"
-     "<p><b>Klaar als:</b> je bij elke richting eerlijk antwoord hebt gegeven, en er minstens één leerstap staat. Staat er geen enkele, dan heb je waarschijnlijk niet eerlijk genoeg gekeken — of je project is te makkelijk voor de tijd die je ervoor hebt.</p>"
+     "<p><b>Wat je doet:</b> loop je elementen één voor één langs en stel bij elk dezelfde vraag: hoe maken we dit echt goed, en wat moeten we daarvoor kunnen en weten? Schrijf het antwoord concreet op, niet als één woord.</p>""<p>Deel je antwoord op in stukken in plaats van er één zin van te maken. Per stuk: weet je hoe het moet, of niet? Dat laatste is een <b>leerstap</b>. Markeer die apart — met een andere kleur, een stippellijn of gewoon een sterretje.</p>"
+     "<p><b>Klaar als:</b> je per element in stukken hebt opgedeeld wát er nodig is, en per stuk weet of je het al weet of nog moet uitzoeken. Staat er geen enkele leerstap, dan heb je niet eerlijk genoeg gekeken. Staan er álleen leerstappen, dan heb je nog niet fijn genoeg opgedeeld.</p>"
      "<p><b>Gaat vaak mis:</b> te snel \"dat weten we wel\". Gebruik het beslisschema van de vorige pagina: twijfel je, dan is het een leerstap.</p>"),
     ("Stap 4 · Werk de bovenste laag uit in concrete stappen",
      "<p><b>Wat je doet:</b> vertaal alles uit laag 3 naar acties. Een leerstap wordt hier een gewone taak die begint met uitzoeken: \"eerst uitzoeken hoe je een goede infographic maakt\".</p>"
@@ -428,7 +429,7 @@ for i, (t, b) in enumerate(STAPPEN, start=1):
 block("b-406", "a-40", "Uitkomst", classes="separator")
 text("c-406", "b-406", "Wat je aan het eind in handen hebt",
      "<p>Na deze vijf stappen liggen er twee lijsten, en die hebben elk een eigen bestemming.</p>"
-     "<p><b>Je scrum-taken.</b> Dat is de bovenste laag: de concrete stappen waarmee je nu kunt beginnen. Die zet je op je product backlog en plan je in.</p>"
+     "<p><b>Je scrum-taken.</b> Dat is de bovenste laag: alle concrete stappen waarmee je nu kunt beginnen. Elk stuk uit laag 3 is hier een taak geworden — de stukken die je al kende zijn gewone taken, de leerstappen zijn uitzoektaken. Ze gaan samen op je product backlog.</p>"
      "<p><b>Je onderzoekslijst.</b> Dat zijn de leerstappen: alles wat je nog moet uitzoeken of leren voordat je verder kunt. Dit is je gerichte onderzoek — geen algemeen literatuuronderzoek, maar precies de vragen die jouw project blokkeren.</p>"
      "<p>Die tweede lijst is meestal de nuttigste opbrengst. Zonder deconstructie ontdek je die vragen ook wel, maar dan pas op het moment dat je erover struikelt.</p>")
 
@@ -509,7 +510,7 @@ text("c-600", "b-600", "Een tweede geval, van begin tot eind",
 block("b-601", "a-60", "Het schema", classes="separator")
 graphic("c-601", "b-601", "course/nl/images/mini-voorbeeld.svg",
         "Deconstructie in vier lagen van een vergelijkingspagina. Onderaan in magenta het einddoel: een webpagina die drie circulaire isolatiematerialen vergelijkt. Daarboven drie richtingen naast elkaar: kloppende vergelijking, helder pagina-ontwerp, en manier om te bouwen. Daarboven per richting wat je moet weten of kunnen: links een wit vak met deels bekend over criteria en data, in het midden en rechts twee gestippelde roze vakken gemarkeerd als leerstap. Bovenaan drie concrete stappen voor deze week. Daarboven een gestippelde balk: deze drie stappen gaan naar de product backlog, de eerste twee in sprint 1.",
-        "Zelfde patroon, ander project. Lees ook deze van onder naar boven.",
+        "Zelfde patroon, ander project. Ook dit is een versimpelde weergave van een kleine opdracht.",
         "Deconstructie van een vergelijkingspagina")
 
 block("b-602", "a-60", "Laag 1")
@@ -546,6 +547,13 @@ text("c-606", "b-606", "En dan naar de backlog",
      "<p>Deze drie stappen gaan op de product backlog. De eerste twee worden in sprint 1 gepland, de derde volgt zodra duidelijk is hoe de pagina eruit moet zien.</p>"
      "<p><b>Kijk nog één keer naar de verhouding.</b> Twee van de drie taken voor deze week zijn uitzoekwerk. Voor een groep die \"gewoon even een pagina wilde maken\" voelt dat als vertraging.</p>"
      "<p>Dat is het niet. Zonder deze deconstructie waren ze maandag begonnen met data verzamelen, hadden ze in week drie ontdekt dat ze niet wisten hoe ze het moesten presenteren, en in week vier dat ze het niet konden bouwen. Nu staat dat allemaal in week één op de planning.</p>",
+     classes="attention")
+
+block("b-6065", "a-60", "Versimpeld", classes="separator")
+text("c-6065", "b-6065", "Ook dit voorbeeld is versimpeld",
+     "<p>Net als het vorige is dit een <b>uitgeklede versie</b>: een overzichtelijke opdracht waarbij al veel bekend was, met korte blokjes zodat alles op één schema past.</p>"
+     "<p>In werkelijkheid zou dit duo bij laag 2 waarschijnlijk op vijf of zes elementen uitkomen — denk aan de afstemming met de opdrachtgever, de bronvermelding, en hoe de pagina straks onderhouden wordt. En bij laag 3 zouden er bij elk element meerdere regels staan in plaats van één.</p>"
+     "<p>De voorbeelden laten het <b>patroon</b> zien: waar je begint, hoe de lagen uit elkaar volgen, en hoe een leerstap bovenaan een taak wordt. Ze laten niet zien hoe vol je eigen deconstructie hoort te worden.</p>",
      classes="attention")
 
 block("b-607", "a-60", "Tussenvraag", classes="separator")
@@ -611,11 +619,11 @@ canvas("c-653", "b-653", "Laag 2 · Richtingen",
 block("b-654", "a-65", "Oefening laag 3", classes="separator")
 canvas("c-654", "b-654", "Laag 3 · Hoe maken we dit echt goed?",
        "<p><b>Pak je elementen uit laag 2 één voor één.</b> Stel bij elk dezelfde vraag: hoe maken we dit echt goed, en wat moeten we daarvoor kunnen en weten?</p>"
-       "<p>Zet er het element bij waar je antwoord over gaat, zodat de ketting zichtbaar blijft. Weet je het antwoord niet? Dan is het een leerstap.</p>",
-       [("oef-l3-1", "Bij element 1", "Element: ... — om dit goed te doen moeten we weten..."),
-        ("oef-l3-2", "Bij element 2", "Element: ... — om dit goed te doen moeten we weten..."),
-        ("oef-l3-3", "Bij element 3", "Element: ... — om dit goed te doen moeten we weten..."),
-        ("oef-l3-4", "Bij element 4", "Element: ... — om dit goed te doen moeten we weten..."),
+       "<p><b>Deel je antwoord op in stukken</b> in plaats van er één zin van te maken. Bovenin de stukken waarvan je weet wat er moet gebeuren, onderin de leerstappen die je nog moet uitzoeken.</p>""<p>Zet er het element bij waar je antwoord over gaat, zodat de ketting zichtbaar blijft.</p>",
+       [("oef-l3-1", "Element 1 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("oef-l3-2", "Element 2 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("oef-l3-3", "Element 3 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("oef-l3-4", "Element 4 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
         ("oef-l3-5", "Leerstap 1", "Dit weten we nog niet, hoort bij element..."),
         ("oef-l3-6", "Leerstap 2", "Dit weten we nog niet, hoort bij element..."),
         ("oef-l3-7", "Leerstap 3", "Dit weten we nog niet, hoort bij element...")])
@@ -793,13 +801,13 @@ canvas("c-803", "b-803", "Laag 2 · Richtingen",
 block("b-804", "a-80", "Laag 3", classes="separator")
 canvas("c-804", "b-804", "Laag 3 · Hoe maken we dit echt goed?",
        "<p><b>Pak elk element uit laag 2 apart</b> en stel er dezelfde vraag bij: hoe maken we dit echt goed, en wat moeten we daarvoor kunnen en weten? Niet hoe je het áf krijgt — hoe je het <i>goed</i> krijgt.</p>"
-       "<p>Zet er telkens bij over welk element je het hebt, zodat de ketting zichtbaar blijft. Weet je het antwoord niet, of twijfel je? Dan is het een leerstap, en die zet je in het onderste deel.</p>",
-       [("laag3-w-1", "Bij element 1", "Element: ... — om dit goed te doen moeten we..."),
-        ("laag3-w-2", "Bij element 2", "Element: ... — om dit goed te doen moeten we..."),
-        ("laag3-w-3", "Bij element 3", "Element: ... — om dit goed te doen moeten we..."),
-        ("laag3-w-4", "Bij element 4", "Element: ... — om dit goed te doen moeten we..."),
-        ("laag3-w-5", "Bij element 5", "Element: ... — om dit goed te doen moeten we..."),
-        ("laag3-w-6", "Bij element 6", "Element: ... — om dit goed te doen moeten we..."),
+       "<p><b>Deel op in stukken.</b> Maak er geen één zin van maar benoem de losse dingen die nodig zijn. Hoe fijner je hier opdeelt, hoe makkelijker laag 4 wordt.</p>""<p>Bovenin zet je de stukken waarvan je weet wat er moet gebeuren. Onderin de <b>leerstappen</b>: wat je nog moet uitzoeken. Zet er telkens bij over welk element het gaat, zodat de ketting zichtbaar blijft.</p>",
+       [("laag3-w-1", "Element 1 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("laag3-w-2", "Element 2 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("laag3-w-3", "Element 3 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("laag3-w-4", "Element 4 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("laag3-w-5", "Element 5 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
+        ("laag3-w-6", "Element 6 · wat is er nodig", "Element: ... — hiervoor is nodig: ..., ..., ..."),
         ("laag3-ls-1", "Leerstap 1", "Dit weten we nog niet — hoort bij element..."),
         ("laag3-ls-2", "Leerstap 2", "Dit weten we nog niet — hoort bij element..."),
         ("laag3-ls-3", "Leerstap 3", "Dit weten we nog niet — hoort bij element..."),
