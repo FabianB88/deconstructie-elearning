@@ -6,10 +6,10 @@
     "_classes": "",
     "title": "Waarom deconstructie?",
     "displayTitle": "Waarom deconstructie?",
-    "body": "Wat het is, en waarom je bij het eind begint.",
+    "body": "Wat het probleem is dat deze methode oplost, en waarom je bij het eind begint.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "3 min",
+    "duration": "6 min",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -29,7 +29,7 @@
     "body": "De opbouw van onder naar boven, met de vraag die bij elke laag hoort.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "4 min",
+    "duration": "8 min",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -49,7 +49,7 @@
     "body": "Een uitgewerkt voorbeeld, laag voor laag gelezen.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "4 min",
+    "duration": "8 min",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -66,10 +66,10 @@
     "_classes": "",
     "title": "Zo werkt het, stap voor stap",
     "displayTitle": "Zo werkt het, stap voor stap",
-    "body": "De vijf stappen die je achter elkaar zet.",
+    "body": "De vijf stappen, met per stap hoe je weet dat je klaar bent.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "5 min",
+    "duration": "9 min",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -86,10 +86,10 @@
     "_classes": "",
     "title": "Valkuilen en tips",
     "displayTitle": "Valkuilen en tips",
-    "body": "Wat er misgaat, en hoe je dat voorkomt.",
+    "body": "Wat er in de praktijk misgaat, en hoe je dat voorkomt.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "3 min",
+    "duration": "6 min",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -106,10 +106,30 @@
     "_classes": "",
     "title": "Mini-voorbeeld",
     "displayTitle": "Mini-voorbeeld",
-    "body": "Een tweede voorbeeld om het patroon te herkennen.",
+    "body": "Een tweede deconstructie, helemaal uitgeschreven.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "3 min",
+    "duration": "7 min",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": true
+    }
+  },
+  {
+    "_id": "co-65",
+    "_parentId": "course",
+    "_type": "page",
+    "_classes": "",
+    "title": "Oefening · 30 seconds",
+    "displayTitle": "Oefening · 30 seconds",
+    "body": "Deconstrueer zelf een kaartspel. Laat hem daarna checken door je coach.",
+    "pageBody": "",
+    "linkText": "Bekijken",
+    "duration": "20 min",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -126,10 +146,10 @@
     "_classes": "",
     "title": "Kennischeck",
     "displayTitle": "Kennischeck",
-    "body": "Vier vragen. Je hebt 75% nodig om te slagen.",
+    "body": "Vijf vragen over situaties uit de praktijk. Je hebt 75% nodig.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "4 min",
+    "duration": "6 min",
     "_graphic": {
       "alt": "",
       "src": ""
@@ -149,7 +169,7 @@
     "body": "Het canvas. Vul je eigen project in.",
     "pageBody": "",
     "linkText": "Bekijken",
-    "duration": "10 min",
+    "duration": "15 min",
     "_graphic": {
       "alt": "",
       "src": ""

@@ -126,3 +126,97 @@
   color: @blueDark;
   font-size: 0.9375rem;
 }
+
+// Navigatie onderaan elke pagina
+// Bewust een gewone link en geen trickle-knop: die gaat pas aan zodra Adapt
+// de pagina als gezien markeert, en dat hangt af van zichtbaarheidsdetectie.
+// Een link werkt altijd.
+// --------------------------------------------------
+.block.paginanav .component__inner {
+  padding: 0;
+}
+
+.paginanav__rij {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.paginanav__knop {
+  display: inline-flex;
+  flex-direction: column;
+  gap: 0.125rem;
+  padding: 1rem 1.75rem;
+  border-radius: 0.5rem;
+  background-color: @blue;
+  color: @white;
+  text-decoration: none;
+
+  &:hover,
+  &:focus {
+    background-color: darken(@blue, 10%);
+    color: @white;
+    text-decoration: none;
+  }
+
+  &:focus-visible {
+    outline: 2px solid @blueDark;
+    outline-offset: 2px;
+  }
+
+  &--stil {
+    background-color: transparent;
+    border: 1px solid @blue;
+    color: @blueDark;
+
+    &:hover,
+    &:focus {
+      background-color: fade(@blue, 8%);
+      color: @blueDark;
+    }
+  }
+}
+
+.paginanav__label {
+  font-size: 0.75rem;
+  font-weight: bold;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  opacity: 0.85;
+}
+
+.paginanav__titel {
+  font-size: 1.0625rem;
+  font-weight: bold;
+}
+
+// Onderschrift onder de afbeelding, niet eroverheen
+// Vanilla zet dit standaard als halftransparante zwarte balk absoluut over de
+// onderkant van de afbeelding. Bij diagrammen dekt dat precies de legenda af.
+// --------------------------------------------------
+.component__attribution {
+  position: static;
+  background-color: transparent;
+  padding: 0.625rem 0 0;
+  color: @font-color;
+  text-align: left;
+}
+
+.component__attribution-inner {
+  font-size: 0.875rem;
+  line-height: 1.5;
+  color: @font-color;
+}
+
+.component__image-container.has-attribution {
+  margin-bottom: 0;
+}
+
+// Afbeelding als blok: anders houdt de inline-baseline een paar pixel ruimte
+// onder de afbeelding, en schuift het onderschrift daar net overheen.
+// --------------------------------------------------
+.graphic__widget img,
+.component__image-container img {
+  display: block;
+  width: 100%;
+  height: auto;
+}

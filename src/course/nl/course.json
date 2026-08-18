@@ -6,28 +6,28 @@
   "displayTitle": "Deconstructie",
   "subtitle": "Vanaf je einddoel terugredeneren naar je concrete stappen voor nu",
   "description": "Hulpmiddel 03 · Minor Circulaire Economie",
-  "body": "Je begint niet bij de eerste stap, maar bij het eind. In deze korte module leer je een project deconstrueren: van je einddoel onderaan terug naar wat je vandaag concreet gaat doen.",
+  "body": "Je begint niet bij de eerste stap, maar bij het eind. In deze module leer je een project deconstrueren: van je einddoel onderaan terug naar wat je vandaag concreet gaat doen.",
   "instruction": "",
   "_buttons": {
     "_submit": {
       "buttonText": "Nakijken",
-      "ariaLabel": "Nakijken"
+      "ariaLabel": "Kijk mijn antwoord na"
     },
     "_reset": {
       "buttonText": "Opnieuw",
-      "ariaLabel": "Opnieuw proberen"
+      "ariaLabel": "Probeer deze vraag opnieuw"
     },
     "_showCorrectAnswer": {
       "buttonText": "Toon antwoord",
       "ariaLabel": "Toon het juiste antwoord"
     },
     "_hideCorrectAnswer": {
-      "buttonText": "Toon mijn antwoord",
+      "buttonText": "Mijn antwoord",
       "ariaLabel": "Toon mijn eigen antwoord"
     },
     "_showFeedback": {
-      "buttonText": "Feedback",
-      "ariaLabel": "Toon feedback"
+      "buttonText": "Toelichting",
+      "ariaLabel": "Toon de toelichting"
     }
   },
   "_globals": {
@@ -36,9 +36,9 @@
         "durationLabel": "Tijd:"
       }
     },
-    "_components": {
-      "_assessmentResults": {
-        "retryText": "Opnieuw proberen"
+    "_extensions": {
+      "_trickle": {
+        "incompleteContent": "Hierboven staat nog iets wat je moet afronden voordat je verder kunt."
       }
     },
     "_accessibility": {
@@ -63,5 +63,5 @@
       }
     }
   },
-  "_latestTrackingId": 34
+  "_latestTrackingId": 77
 }

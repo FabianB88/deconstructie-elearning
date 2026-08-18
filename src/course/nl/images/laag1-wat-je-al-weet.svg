@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 476" width="900" height="476" role="img" aria-labelledby="t8 d8">
+<title id="t8">Laag 1 invullen terwijl je nog veel niet weet</title>
+<desc id="d8">Voorbeeld van een einddoel voor een e-learning waarvan het onderwerp en de doelgroep nog onbekend zijn. Links staat wat nog open is: het onderwerp, de doelgroep en de inhoud. Rechts staat wat je al wel weet en dus opschrijft: het moet minimaal op hbo-niveau zijn, ongeveer dertig minuten duren, in Brightspace werken en toegankelijk zijn. Daaronder staat dat die eisen genoeg zijn om laag 2 op te bouwen, met drie richtingen die eruit volgen: didactische opbouw, een tool om te bouwen, en toegankelijkheid.</desc>
+<style>
+  .t{font-family:Arial,Helvetica,sans-serif}
+  .kop{font-size:17px;font-weight:bold;fill:#1C1C1E}
+  .sub{font-size:13.5px;fill:#46464B}
+  .lab{font-size:11.5px;font-weight:bold;letter-spacing:.09em}
+  .item{font-size:13.5px;fill:#1C1C1E}
+  .grijs{font-size:13.5px;fill:#8A8A8E}
+  .w{font-size:14px;font-weight:bold;fill:#FFFFFF}
+  .rich{font-size:13px;font-weight:bold;fill:#1C1C1E}
+</style>
+<rect width="900" height="476" fill="#FFFFFF"/>
+<text class="t kop" x="30" y="38">Je weet het onderwerp nog niet — en toch kun je laag 1 vullen</text>
+<text class="t sub" x="30" y="60">Voorbeeld: jullie moeten een e-learning maken. Meer is er nog niet gezegd.</text>
+
+<g class="t">
+  <rect x="30" y="86" width="400" height="188" rx="10" fill="#F4F4F6" stroke="#E4E4E8" stroke-width="1.5"/>
+  <text class="lab" x="52" y="114" fill="#8A8A8E">DIT WETEN WE NOG NIET</text>
+  <text class="grijs" x="52" y="146">Waar gaat het over?</text>
+  <text class="grijs" x="52" y="176">Voor wie is het?</text>
+  <text class="grijs" x="52" y="206">Welke inhoud komt erin?</text>
+  <text class="grijs" x="52" y="246" font-size="12.5">Verleiding: wachten tot dit duidelijk is.</text>
+
+  <rect x="470" y="86" width="400" height="188" rx="10" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <text class="lab" x="492" y="114" fill="#B00061">DIT WETEN WE AL — DUS DIT SCHRIJF JE OP</text>
+  <text class="item" x="492" y="146">Minimaal hbo-niveau</text>
+  <text class="item" x="492" y="176">Ongeveer 30 minuten doorlooptijd</text>
+  <text class="item" x="492" y="206">Moet in Brightspace werken</text>
+  <text class="item" x="492" y="236">Moet toegankelijk zijn (WCAG)</text>
+  <text class="grijs" x="492" y="262" font-size="12.5">Vier eisen. Genoeg om verder te bouwen.</text>
+</g>
+
+<polygon points="670,292 662,278 678,278" fill="#9A9AA2"/>
+<line x1="670" y1="274" x2="670" y2="280" stroke="#C9C9D0" stroke-width="2"/>
+
+<g class="t">
+  <rect x="30" y="304" width="840" height="42" rx="9" fill="#E5007D"/>
+  <text class="w" x="450" y="331" text-anchor="middle">Laag 1 · Einddoel: een e-learning van 30 minuten, hbo-niveau, in Brightspace, toegankelijk</text>
+</g>
+<polygon points="450,364 442,350 458,350" fill="#9A9AA2"/>
+
+<text class="t lab" x="30" y="392" fill="#E5007D">LAAG 2 · RICHTINGEN DIE HIER DIRECT UIT VOLGEN</text>
+<g class="t">
+  <rect x="30" y="402" width="266" height="52" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <text class="rich" x="163" y="433" text-anchor="middle">Didactische opbouw</text>
+  <rect x="317" y="402" width="266" height="52" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <text class="rich" x="450" y="433" text-anchor="middle">Tool om te bouwen</text>
+  <rect x="604" y="402" width="266" height="52" rx="9" fill="#FFFFFF" stroke="#E5007D" stroke-width="2"/>
+  <text class="rich" x="737" y="433" text-anchor="middle">Toegankelijkheid</text>
+</g>
+</svg>

@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 372" width="900" height="372" role="img" aria-labelledby="t3 d3">
+<title id="t3">Waar deconstructie in je project zit</title>
+<desc id="d3">Een keten van vier stappen. Eerst de discover-fase, dan deconstructie, dan de product backlog, dan sprint 1. Onder de keten loopt een pijl terug van sprint 1 naar deconstructie, met het label: bij elke grote nieuwe stap opnieuw.</desc>
+<style>
+  .t{font-family:Arial,Helvetica,sans-serif}
+  .kop{font-size:17px;font-weight:bold;fill:#1C1C1E}
+  .sub{font-size:13.5px;fill:#46464B}
+  .bx{font-size:15px;font-weight:bold;fill:#1C1C1E}
+  .bxw{font-size:15px;font-weight:bold;fill:#FFFFFF}
+  .kl{font-size:12px;fill:#8A8A8E}
+  .klw{font-size:12px;fill:#F5B8D8}
+  .terug{font-size:12.5px;font-weight:bold;fill:#B00061}
+</style>
+<rect width="900" height="372" fill="#FFFFFF"/>
+<text class="t kop" x="30" y="40">Waar deconstructie in je project zit</text>
+<text class="t sub" x="30" y="63">Eerst denken, dan schetsen, dan prompten. Deconstructie is het denkwerk dat aan al het maken voorafgaat.</text>
+
+<g class="t">
+  <rect x="30" y="108" width="180" height="76" rx="10" fill="#F4F4F6" stroke="#E4E4E8" stroke-width="1.5"/>
+  <text class="bx" x="120" y="141" text-anchor="middle">Discover-fase</text>
+  <text class="kl" x="120" y="162" text-anchor="middle">je verkent de opdracht</text>
+
+  <rect x="250" y="100" width="200" height="92" rx="10" fill="#E5007D"/>
+  <text class="bxw" x="350" y="137" text-anchor="middle">Deconstructie</text>
+  <text class="klw" x="350" y="158" text-anchor="middle">je redeneert van het eind</text>
+  <text class="klw" x="350" y="174" text-anchor="middle">terug naar nu</text>
+
+  <rect x="490" y="108" width="180" height="76" rx="10" fill="#F4F4F6" stroke="#E4E4E8" stroke-width="1.5"/>
+  <text class="bx" x="580" y="141" text-anchor="middle">Product backlog</text>
+  <text class="kl" x="580" y="162" text-anchor="middle">laag 4 wordt je taken</text>
+
+  <rect x="710" y="108" width="160" height="76" rx="10" fill="#F4F4F6" stroke="#E4E4E8" stroke-width="1.5"/>
+  <text class="bx" x="790" y="141" text-anchor="middle">Sprint 1</text>
+  <text class="kl" x="790" y="162" text-anchor="middle">je gaat bouwen</text>
+
+  <g fill="#9A9AA2">
+    <polygon points="238,146 218,139 218,153"/>
+    <polygon points="478,146 458,139 458,153"/>
+    <polygon points="698,146 678,139 678,153"/>
+  </g>
+  <g stroke="#C9C9D0" stroke-width="2">
+    <line x1="210" y1="146" x2="220" y2="146"/>
+    <line x1="450" y1="146" x2="460" y2="146"/>
+    <line x1="670" y1="146" x2="680" y2="146"/>
+  </g>
+</g>
+
+<g class="t">
+  <path d="M790 184 L790 268 Q790 282 776 282 L364 282 Q350 282 350 268 L350 200"
+        fill="none" stroke="#F5B8D8" stroke-width="2.5" stroke-dasharray="7 5"/>
+  <polygon points="350,192 343,208 357,208" fill="#E5007D"/>
+  <rect x="452" y="266" width="212" height="32" rx="8" fill="#FFFFFF"/>
+  <text class="terug" x="558" y="287" text-anchor="middle">bij elke grote nieuwe stap opnieuw</text>
+</g>
+
+<text class="t sub" x="30" y="344">Je deconstrueert dus niet één keer aan het begin, maar telkens als je niet meer weet wat de volgende stap is.</text>
+</svg>
