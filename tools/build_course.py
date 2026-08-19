@@ -17,7 +17,7 @@ course = {
     "title": "Deconstructie",
     "displayTitle": "Deconstructie",
     "subtitle": "Vanaf je einddoel terugredeneren naar je concrete stappen voor nu",
-    "description": "Hulpmiddel 03 · Minor Circulaire Economie",
+    "description": "Green Office",
     "body": "Je begint niet bij de eerste stap, maar bij het eind. In deze module leer je een project deconstrueren: van je einddoel onderaan terug naar wat je vandaag concreet gaat doen.",
     "instruction": "",
     "_buttons": {
@@ -216,7 +216,7 @@ block("b-105", "a-10", "Uitleg wanneer")
 text("c-105", "b-105", "Twee momenten om te deconstrueren",
      "<p><b>Aan het begin, in de discover-fase.</b> Je weet dan nog het minst, en dat is juist het punt: de methode maakt zichtbaar wát je niet weet, zodat je dat gericht kunt uitzoeken in plaats van erachter te komen als het te laat is.</p>"
      "<p><b>Bij elke grote nieuwe stap.</b> Merk je halverwege dat je niet meer weet wat de volgende taak is, dan is dat het signaal. Deconstrueer opnieuw, vanaf je nieuwe einddoel.</p>"
-     "<p>Deconstructie hoort bij de rode draad van de minor: <i>eerst denken, dan schetsen, dan prompten</i>. Het is het denkwerk dat aan al het maken voorafgaat. Wat er bovenaan uit komt rollen, gaat rechtstreeks door naar je scrum-backlog.</p>")
+     "<p>Deconstructie hoort bij de vaste manier van werken: <i>eerst denken, dan schetsen, dan prompten</i>. Het is het denkwerk dat aan al het maken voorafgaat. Wat er bovenaan uit komt rollen, gaat rechtstreeks door naar je scrum-backlog.</p>")
 
 block("b-106", "a-10", "Tussenvraag", classes="separator")
 mcq("c-106", "b-106", "Even checken",
@@ -571,8 +571,8 @@ mcq("c-607", "b-607", "Even checken",
 # ==================================================== 6b · OEFENING
 block("b-650", "a-65", "Opdracht")
 text("c-650", "b-650", "De opdracht",
-     "<p>Tijd om het zelf te doen, op iets wat losstaat van je eigen project. Dat is bewust: op een vreemd onderwerp zie je je eigen aannames beter.</p>"
-     "<p><b>Deconstrueer dit einddoel: een eigen 30 seconds-kaartspel maken.</b> Een doos met kaarten, waarbij je je team in dertig seconden vijf begrippen laat raden zonder het woord zelf te zeggen.</p>"
+     "<p>Tijd om het zelf te doen, op iets wat losstaat van je eigen project. Dat is bewust: op een vreemd onderwerp vallen eigen aannames sneller op.</p>"
+     "<p><b>Deconstrueer dit einddoel: een eigen 30 seconds-kaartspel maken.</b> Een doos met kaarten, waarbij het team in dertig seconden vijf begrippen moet raden zonder dat het woord zelf mag vallen.</p>"
      "<p>Klinkt overzichtelijk. Dat is het niet. Zodra je gaat ontleden kom je uit op begrippenkeuze, moeilijkheidsgraad, categorieën, aantal kaarten, spelregels, de zandloper, het scoresysteem, de doos, drukwerk, testspelen. En bij elk van die elementen weer: hoe maken we dit <i>echt goed</i>, en wat moeten we daarvoor weten?</p>")
 
 block("b-651", "a-65", "Aanpak", classes="separator")
@@ -766,7 +766,7 @@ text("c-800", "b-800", "Vul je eigen deconstructie in",
 
 block("b-801", "a-80", "Opslag", classes="separator")
 text("c-801", "b-801", "Waar blijft dit?",
-     "<p>Wat je typt wordt bewaard in <b>deze browser op dit apparaat</b>. Op een andere computer staat het er niet, en als je je browsergegevens wist verdwijnt het.</p>"
+     "<p>Wat je typt wordt bewaard in <b>deze browser op dit apparaat</b>. Op een andere computer staat het er niet, en bij het wissen van je browsergegevens verdwijnt het.</p>"
      "<p>Gebruik daarom de knop <b>Kopieer als tekst</b> onderaan zodra je klaar bent, en plak je deconstructie in je projectmap.</p>",
      classes="attention")
 
